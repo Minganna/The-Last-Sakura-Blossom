@@ -10,8 +10,13 @@ public class Note : MonoBehaviour {
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+
     }
 
+    void OnEnable()
+    {
+        rb.velocity = new Vector2(-speed, 0);
+    }
 	// Use this for initialization
 	void Start () {
      rb.velocity = new Vector2(-speed, 0);

@@ -49,8 +49,17 @@ public class MainMenu : MonoBehaviour {
            else if (Input.GetKeyDown(Keytocontinue) && texts[3].activeSelf)
                 {
                 Players.Ciao = false;
+                texts[3].SetActive(false);
+                texts[4].SetActive(false);
+                texts[5].SetActive(false);
+                texts[6].SetActive(true);
+                texts[7].SetActive(true);
+            }
+            else if (Input.GetKeyDown(Keytocontinue) && texts[6].activeSelf)
+            {
+                Players.bossy = false;
                 StartCoroutine(StartGame());
-                }
+            }
 
             else
             {
@@ -69,6 +78,17 @@ public class MainMenu : MonoBehaviour {
             else if (Input.GetKeyDown(Keytocontinue) && texts[4].activeSelf)
             {
                 Players.Ciao = true;
+                texts[3].SetActive(false);
+                texts[4].SetActive(false);
+                texts[5].SetActive(false);
+                texts[6].SetActive(true);
+                texts[7].SetActive(true);
+               
+            }
+            else if (Input.GetKeyDown(Keytocontinue) && texts[7].activeSelf)
+            {
+                Players.bossy = true;
+       
                 StartCoroutine(StartGame());
             }
         }
