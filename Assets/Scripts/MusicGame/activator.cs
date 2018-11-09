@@ -16,12 +16,16 @@ public class activator : MonoBehaviour {
     public GameObject NR;
     public GameObject NB;
     public GameObject NP;
+    public int numbjoy;
+    
 
+    
 
 
     void Start()
     {
        old= color.color;
+  
     }
 
     // Use this for initialization
@@ -32,28 +36,48 @@ public class activator : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-       
-            if (Input.GetKeyDown(keyRed) || Input.GetKeyDown(keyBlue))
+        if (numbjoy == 0)
+        {
+            if (Createmode == true && Input.GetKeyDown(keyRed) || Createmode == true && Input.GetButtonDown("ButtonX"))
             {
-                StartCoroutine(notedone());
+                Instantiate(NR, gameObject.transform.position, Quaternion.identity);
             }
-            if (Input.GetKeyDown(keyRed) && active)
+            if (Createmode == true && Input.GetKeyDown(keyBlue) || Createmode == true && Input.GetButtonDown("ButtonCircle"))
             {
-                Destroy(noteRed);
+                Instantiate(NB, gameObject.transform.position, Quaternion.identity);
             }
-            if (Input.GetKeyDown(keyBlue) && active)
+            if (Createmode == true && Input.GetKeyDown(keyRed) && Input.GetKeyDown(keyBlue) || Createmode == true && Input.GetButtonDown("ButtonCircle") && Input.GetButtonDown("ButtonX"))
             {
-                Destroy(noteBlue);
+                Instantiate(NP, gameObject.transform.position, Quaternion.identity);
             }
-            if (Input.GetKeyDown(keyBlue) && Input.GetKeyDown(keyRed) && active)
+            else
             {
-                Destroy(notePurple);
+                if (Input.GetKeyDown(keyRed) || Input.GetKeyDown(keyBlue) || Input.GetButtonDown("ButtonX") || Input.GetButtonDown("ButtonCircle"))
+                {
+                    StartCoroutine(notedone());
+                }
+                if (Input.GetKeyDown(keyRed) && active || Input.GetButtonDown("ButtonX") && active)
+                {
+                    Destroy(noteRed);
+                }
+                if (Input.GetKeyDown(keyBlue) && active || Input.GetButtonDown("ButtonCircle") && active)
+                {
+                    Destroy(noteBlue);
+                }
+                if (Input.GetKeyDown(keyBlue) && Input.GetKeyDown(keyRed) && active || Input.GetButtonDown("ButtonX") && Input.GetButtonDown("ButtonCircle") && active)
+                {
+                    Destroy(notePurple);
+                }
             }
+        }
+           
+                }
+            
         
 
        
         
-    }
+    
 
     void OnTriggerEnter2D(Collider2D col)
     {
