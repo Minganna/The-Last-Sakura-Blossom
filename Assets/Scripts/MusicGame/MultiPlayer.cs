@@ -7,6 +7,8 @@ public class MultiPlayer : MonoBehaviour {
     public GameObject Player2;
     public GameObject BossBar;
     public GameObject BossHP;
+    public int Level;
+    public GameObject Player1;
 	// Use this for initialization
 	void Start () {
         Playersq.GetComponent<SorMplayers>();
@@ -18,10 +20,18 @@ public class MultiPlayer : MonoBehaviour {
         if (Playersq.Ciao == false)
         {
             Player2.SetActive(false);
+            if(Level==2)
+            {
+                Player1.SetActive(true);
+            }
         }
         else if (Playersq.Ciao == true)
         {
             Player2.SetActive(true);
+            if (Level == 2)
+            {
+                Player1.SetActive(false);
+            }
         }
         if(Playersq.bossy==false)
         {

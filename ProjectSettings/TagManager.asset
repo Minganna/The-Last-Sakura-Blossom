@@ -49,3 +49,6 @@ TagManager:
   - name: Note
     uniqueID: 1304146817
     locked: 0
+  - name: Fans
+    uniqueID: 2857791787
+    locked: 0
