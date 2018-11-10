@@ -255,9 +255,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Player 1(F)&(G)
+  m_Text: 'Player 1(K)&(L)
 
-    Player 2(B)&(C)'
+    Player 2(A)&(S)'
 --- !u!222 &620904547
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -469,9 +469,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Player 1(G)
+  m_Text: 'Player 1(L)
 
-    Player 2(C)'
+    Player 2(S)'
 --- !u!222 &1232304008
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1068,9 +1068,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Player 1(F)
+  m_Text: 'Player 1(K)
 
-    Player 2(B)'
+    Player 2(A)'
 --- !u!222 &1903197100
 CanvasRenderer:
   m_ObjectHideFlags: 0

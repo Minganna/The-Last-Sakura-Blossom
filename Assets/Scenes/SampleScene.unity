@@ -7001,6 +7001,26 @@ Prefab:
       propertyPath: Damaging
       value: 
       objectReference: {fileID: 335891623}
+    - target: {fileID: 114133311836389830, guid: 38ae890669c8af94496955719106a9a3,
+        type: 2}
+      propertyPath: keyRedPlayer1
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 114133311836389830, guid: 38ae890669c8af94496955719106a9a3,
+        type: 2}
+      propertyPath: keyBluePlayer1
+      value: 108
+      objectReference: {fileID: 0}
+    - target: {fileID: 114133311836389830, guid: 38ae890669c8af94496955719106a9a3,
+        type: 2}
+      propertyPath: keyRedPlayer2
+      value: 97
+      objectReference: {fileID: 0}
+    - target: {fileID: 114133311836389830, guid: 38ae890669c8af94496955719106a9a3,
+        type: 2}
+      propertyPath: keyBluePlayer2
+      value: 115
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 38ae890669c8af94496955719106a9a3, type: 2}
   m_IsPrefabAsset: 0
@@ -23623,6 +23643,16 @@ Prefab:
       propertyPath: Player1
       value: 
       objectReference: {fileID: 1727668012}
+    - target: {fileID: 114276315121104864, guid: d4c030572f2a3924d8b602871d7df71f,
+        type: 2}
+      propertyPath: KandL
+      value: 
+      objectReference: {fileID: 1900651278}
+    - target: {fileID: 114276315121104864, guid: d4c030572f2a3924d8b602871d7df71f,
+        type: 2}
+      propertyPath: AandS
+      value: 
+      objectReference: {fileID: 1161374124}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d4c030572f2a3924d8b602871d7df71f, type: 2}
   m_IsPrefabAsset: 0
@@ -41335,7 +41365,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   keyRed: 97
-  keyBlue: 98
+  keyBlue: 115
   Createmode: 0
   NR: {fileID: 1052577944330342, guid: f1f26c42fd91320479a6f83753bbbe2d, type: 2}
   NB: {fileID: 1119093504990822, guid: dd2a82933c5bb3046a6c39dd2b16eb32, type: 2}
@@ -66692,9 +66722,25 @@ Prefab:
       propertyPath: NumbJoypad
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114365791225075776, guid: bc757f729fdbb3c49b8eeb84c978760b,
+        type: 2}
+      propertyPath: keyRed
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 114365791225075776, guid: bc757f729fdbb3c49b8eeb84c978760b,
+        type: 2}
+      propertyPath: keyBlue
+      value: 108
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bc757f729fdbb3c49b8eeb84c978760b, type: 2}
   m_IsPrefabAsset: 0
+--- !u!114 &1900651278 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 114365791225075776, guid: bc757f729fdbb3c49b8eeb84c978760b,
+    type: 2}
+  m_PrefabInternal: {fileID: 1900651277}
+  m_Script: {fileID: 11500000, guid: 832417a70607fa94781e8fc6182ff1d7, type: 3}
 --- !u!1 &1904932669
 GameObject:
   m_ObjectHideFlags: 0

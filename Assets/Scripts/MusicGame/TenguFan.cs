@@ -8,6 +8,7 @@ public class TenguFan : MonoBehaviour {
     public GameObject Fan2;
     public SorMplayers sm;
     public PauseMenuandEndGame Paused;
+    public bool start;
     
 
     // Use this for initialization
@@ -17,9 +18,15 @@ public class TenguFan : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-  
-        StartCoroutine(FanAppear());
-       
+        if (start==false)
+        {
+            start = true;
+            StartCoroutine(FanAppear());
+            return;
+
+        }
+
+
     }
 
     IEnumerator FanAppear()
@@ -35,6 +42,8 @@ public class TenguFan : MonoBehaviour {
                 Fan1.SetActive(false);
                 Fan2.SetActive(false);
                 yield return new WaitForSeconds(10f);
+
+                start = false;
             }
             if (sm.Ciao == false)
             {
@@ -42,6 +51,8 @@ public class TenguFan : MonoBehaviour {
                 Fan1.SetActive(true);
                 yield return new WaitForSeconds(20f);
                 Fan1.SetActive(false);
+
+                start = false;
             }
             
         }

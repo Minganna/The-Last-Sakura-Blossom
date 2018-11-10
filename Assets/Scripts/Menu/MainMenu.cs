@@ -31,22 +31,22 @@ public class MainMenu : MonoBehaviour {
         if (!texts[7].activeSelf)
         {
 
-            if (Input.GetKeyDown(directionalkeys[0]) && selection >= 0 && selection <= 1)
+            if (Input.GetKeyDown(directionalkeys[0]) && selection >= 0 && selection <= 1|| Input.GetButtonDown("JoystickDown") && selection >= 0 && selection <= 1)
             {
                 selection += 1;
             }
-            if (Input.GetKeyDown(directionalkeys[1]) && selection >= 0 && selection <= 2)
+            if (Input.GetKeyDown(directionalkeys[1]) && selection >= 0 && selection <= 2||Input.GetButtonDown("JoystickUp") && selection >= 0 && selection <= 1)
             {
                 selection -= 1;
             }
         }
         else if(texts[7].activeSelf)
         {
-            if (Input.GetKeyDown(directionalkeys[0]) && selection >= 0 && selection < 1)
+            if (Input.GetKeyDown(directionalkeys[0]) && selection >= 0 && selection < 1 || Input.GetButtonDown("JoystickDown") && selection >= 0 && selection < 1)
             {
                 selection += 1;
             }
-            if (Input.GetKeyDown(directionalkeys[1]) && selection >= 0 && selection < 2)
+            if (Input.GetKeyDown(directionalkeys[1]) && selection >= 0 && selection < 2 || Input.GetButtonDown("JoystickUp") && selection >= 0 && selection < 2)
             {
                 selection -= 1;
             }

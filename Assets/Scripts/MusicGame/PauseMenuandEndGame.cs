@@ -21,6 +21,8 @@ public class PauseMenuandEndGame : MonoBehaviour {
     public GameObject YouDied;
     public GameObject Roko;
     public GameObject Game;
+    public activator KandL;
+    public Player2 AandS;
     
 
 
@@ -70,12 +72,12 @@ public class PauseMenuandEndGame : MonoBehaviour {
     IEnumerator WaitToPress()
     {
         yield return new WaitForSeconds(1f);
-        if (Input.GetButtonDown("ButtonCircle") && ispaused == true || Input.GetButtonDown("ButtonTriangle") && ispaused == true)
+        if (Input.GetButtonDown("ButtonCircle") && ispaused == true || Input.GetButtonDown("ButtonTriangle") && ispaused == true|| Input.GetKeyDown(KandL.keyBlue) && ispaused == true||Input.GetKeyDown(KandL.keyRed) && ispaused == true || Input.GetKeyDown(AandS.keyBlue) && ispaused == true)
         {
             SceneManager.LoadScene("MainMenu");
         }
 
-        if (Input.GetButtonDown("ButtonX") && ispaused == true || Input.GetButtonDown("ButtonSquare") && ispaused == true)
+        if (Input.GetButtonDown("ButtonX") && ispaused == true || Input.GetButtonDown("ButtonSquare") && ispaused == true || Input.GetKeyDown(KandL.keyRed) && ispaused == true || Input.GetKeyDown(AandS.keyRed) && ispaused == true)
         {
             SceneManager.LoadScene("TenguCave");
         }
@@ -84,12 +86,12 @@ public class PauseMenuandEndGame : MonoBehaviour {
     IEnumerator WaitToPress2()
     {
         yield return new WaitForSeconds(1f);
-        if (Input.GetButtonDown("ButtonCircle")  || Input.GetButtonDown("ButtonTriangle") )
+        if (Input.GetButtonDown("ButtonCircle")  || Input.GetButtonDown("ButtonTriangle") || Input.GetKeyDown(KandL.keyBlue) && ispaused == true || Input.GetKeyDown(AandS.keyBlue) && ispaused == true)
         {
             SceneManager.LoadScene("MainMenu");
         }
 
-        if (Input.GetButtonDown("ButtonX")  || Input.GetButtonDown("ButtonSquare") )
+        if (Input.GetButtonDown("ButtonX")  || Input.GetButtonDown("ButtonSquare") || Input.GetKeyDown(KandL.keyRed) && ispaused == true || Input.GetKeyDown(AandS.keyRed) && ispaused == true)
             SceneManager.LoadScene("SampleScene");
         }
     }

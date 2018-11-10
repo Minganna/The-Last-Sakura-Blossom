@@ -13724,8 +13724,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -785677305
+  m_SortingLayer: 3
   m_SortingOrder: 6
   m_Sprite: {fileID: 21300000, guid: c9272a4652c31624b8eb48929f23ec4b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -41256,7 +41256,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 10
   m_Sprite: {fileID: 21300000, guid: cb1b544ba388fc94eafd9e5b1e63544a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -41296,6 +41296,7 @@ MonoBehaviour:
   Fan2: {fileID: 1975456899}
   sm: {fileID: 1275442331}
   Paused: {fileID: 122168527}
+  start: 0
 --- !u!95 &825010397
 Animator:
   serializedVersion: 3
@@ -57242,6 +57243,12 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bc757f729fdbb3c49b8eeb84c978760b, type: 2}
   m_IsPrefabAsset: 0
+--- !u!114 &1076005386 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 114365791225075776, guid: bc757f729fdbb3c49b8eeb84c978760b,
+    type: 2}
+  m_PrefabInternal: {fileID: 1076005385}
+  m_Script: {fileID: 11500000, guid: 832417a70607fa94781e8fc6182ff1d7, type: 3}
 --- !u!1 &1076073501
 GameObject:
   m_ObjectHideFlags: 0
@@ -102470,6 +102477,26 @@ Prefab:
       propertyPath: Bosshealthbar
       value: 
       objectReference: {fileID: 1028187197}
+    - target: {fileID: 114133311836389830, guid: 38ae890669c8af94496955719106a9a3,
+        type: 2}
+      propertyPath: keyRedPlayer1
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 114133311836389830, guid: 38ae890669c8af94496955719106a9a3,
+        type: 2}
+      propertyPath: keyBluePlayer1
+      value: 108
+      objectReference: {fileID: 0}
+    - target: {fileID: 114133311836389830, guid: 38ae890669c8af94496955719106a9a3,
+        type: 2}
+      propertyPath: keyRedPlayer2
+      value: 97
+      objectReference: {fileID: 0}
+    - target: {fileID: 114133311836389830, guid: 38ae890669c8af94496955719106a9a3,
+        type: 2}
+      propertyPath: keyBluePlayer2
+      value: 115
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 38ae890669c8af94496955719106a9a3, type: 2}
   m_IsPrefabAsset: 0
@@ -106858,6 +106885,16 @@ Prefab:
       propertyPath: Level
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 114276315121104864, guid: d4c030572f2a3924d8b602871d7df71f,
+        type: 2}
+      propertyPath: KandL
+      value: 
+      objectReference: {fileID: 1076005386}
+    - target: {fileID: 114276315121104864, guid: d4c030572f2a3924d8b602871d7df71f,
+        type: 2}
+      propertyPath: AandS
+      value: 
+      objectReference: {fileID: 795502702}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d4c030572f2a3924d8b602871d7df71f, type: 2}
   m_IsPrefabAsset: 0
