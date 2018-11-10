@@ -9,7 +9,7 @@ public class NoteDestroyer : MonoBehaviour {
 
     void Update()
     {
-
+       
         healthbar.value = health;
     }
 

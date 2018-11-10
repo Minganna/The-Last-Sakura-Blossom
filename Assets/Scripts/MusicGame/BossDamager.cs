@@ -11,6 +11,7 @@ public class BossDamager : MonoBehaviour {
     public KeyCode keyRedPlayer2;
     public KeyCode keyBluePlayer2;
     public NoteDestroyer Playerhealth;
+    public SorMplayers Damaging;
     
     
 
@@ -36,8 +37,9 @@ public class BossDamager : MonoBehaviour {
             {
                 if (col.gameObject.tag == "NoteRed" || col.gameObject.tag == "NoteBlue" || col.gameObject.tag == "NotePurple")
 
-                    Bosshealth -= 1;
-                if (Playerhealth.health < 10 && Playerhealth.health > 0)
+                    if (Damaging.bossy == false)
+                    { Bosshealth -= 1; }
+                if (Playerhealth.health < 40 && Playerhealth.health > 0)
                 {
                     Playerhealth.health += 1;
                 }

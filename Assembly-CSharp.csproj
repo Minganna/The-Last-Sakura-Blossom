@@ -73,6 +73,7 @@
     <Compile Include="Assets\Scripts\MusicGame\NoteDestroyer.cs" />
     <Compile Include="Assets\Scripts\MusicGame\PauseMenuandEndGame.cs" />
     <Compile Include="Assets\Scripts\MusicGame\Player2.cs" />
+    <Compile Include="Assets\Scripts\MusicGame\Score.cs" />
     <Compile Include="Assets\Scripts\MusicGame\SpawingClouds.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>G:/SecondYear/GameJam3/Hero of Rithm/The-Last-Sakura-Blossom/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>

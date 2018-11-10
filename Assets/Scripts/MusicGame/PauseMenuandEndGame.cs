@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class PauseMenuandEndGame : MonoBehaviour {
     public GameObject Notes;
@@ -12,11 +13,20 @@ public class PauseMenuandEndGame : MonoBehaviour {
     public NoteDestroyer Player;
     public GameObject Boss;
     public GameObject Players;
+    public GameObject PauseText;
+    public GameObject YouWon;
+    public string name;
+    public Text Score;
+    public GameObject lastNote;
+    public GameObject YouDied;
+    public GameObject Roko;
+    public GameObject Game;
     
+
 
 	// Use this for initialization
 	void Start () {
-      
+  
 	}
 	
 	// Update is called once per frame
@@ -36,10 +46,51 @@ public class PauseMenuandEndGame : MonoBehaviour {
             return;
         }
 
-        if(Bosshealth.Bosshealth<=0||Player.health<=0)
+        if(Bosshealth.Bosshealth<=0||lastNote==null)
+        {
+            Notes.SetActive(false);
+            Pausemenu.SetActive(true);
+            PauseText.SetActive(false);
+            YouWon.SetActive(true);
+            ispaused = true;
+            StartCoroutine(WaitToPress());
+          
+        }
+       if( Player.health <= 0)
+        {
+            YouDied.SetActive(true);
+            Game.SetActive(false);
+            Roko.SetActive(true);
+            Notes.SetActive(false);
+            StartCoroutine(WaitToPress2());
+
+        }
+
+    }
+    IEnumerator WaitToPress()
+    {
+        yield return new WaitForSeconds(1f);
+        if (Input.GetButtonDown("ButtonCircle") && ispaused == true || Input.GetButtonDown("ButtonTriangle") && ispaused == true)
         {
             SceneManager.LoadScene("MainMenu");
         }
 
+        if (Input.GetButtonDown("ButtonX") && ispaused == true || Input.GetButtonDown("ButtonSquare") && ispaused == true)
+        {
+            SceneManager.LoadScene("TenguCave");
+        }
     }
-}
+
+    IEnumerator WaitToPress2()
+    {
+        yield return new WaitForSeconds(1f);
+        if (Input.GetButtonDown("ButtonCircle")  || Input.GetButtonDown("ButtonTriangle") )
+        {
+            SceneManager.LoadScene("MainMenu");
+        }
+
+        if (Input.GetButtonDown("ButtonX")  || Input.GetButtonDown("ButtonSquare") )
+            SceneManager.LoadScene("SampleScene");
+        }
+    }
+

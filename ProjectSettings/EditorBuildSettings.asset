@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Instructions.unity
     guid: af916349ab4cdfd468467a1700a240bc
+  - enabled: 1
+    path: Assets/Scenes/TenguCave.unity
+    guid: 4372092917c8b3b4d9d851256acadef6
   m_configObjects: {}
