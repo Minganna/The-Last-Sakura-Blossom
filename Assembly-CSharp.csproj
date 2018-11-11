@@ -77,6 +77,10 @@
     <Compile Include="Assets\Scripts\MusicGame\SpawingClouds.cs" />
     <Compile Include="Assets\Scripts\MusicGame\TenguFan.cs" />
     <Compile Include="Assets\Scripts\MusicGame\Thunders.cs" />
+    <Compile Include="Assets\Scripts\SelectController\Joypad\Joypadnumber.cs" />
+    <Compile Include="Assets\Scripts\SelectController\Logo\ActivatorLogo.cs" />
+    <Compile Include="Assets\Scripts\SelectController\Logo\LogoAdieu.cs" />
+    <Compile Include="Assets\Scripts\SelectController\Logo\LogoDamageAni.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>G:/SecondYear/GameJam3/Hero of Rithm/The-Last-Sakura-Blossom/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>

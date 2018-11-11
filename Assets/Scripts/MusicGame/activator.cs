@@ -19,9 +19,10 @@ public class activator : MonoBehaviour {
     public int numbjoy;
     int damage=1;
     public NoteDestroyer inflictdamage;
-    
+    public AudioSource slash;
 
-    
+
+
 
 
     void Start()
@@ -61,18 +62,19 @@ public class activator : MonoBehaviour {
                 if (Input.GetKeyDown(keyRed) && active || Input.GetButtonDown("ButtonX") && active)
                 {
                     Destroy(noteRed);
-                  
-                 
+                    slash.Play();
+
                 }
                 if (Input.GetKeyDown(keyBlue) && active || Input.GetButtonDown("ButtonCircle") && active)
                 {
                     Destroy(noteBlue);
-                 
-               
+                    slash.Play();
+
                 }
                 if (Input.GetKeyDown(keyBlue) && Input.GetKeyDown(keyRed) && active || Input.GetButtonDown("ButtonX") && Input.GetButtonDown("ButtonCircle") && active)
                 {
                     Destroy(notePurple);
+                    slash.Play();
                 }
 
             }

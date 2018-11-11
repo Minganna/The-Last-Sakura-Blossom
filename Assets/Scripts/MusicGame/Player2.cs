@@ -19,6 +19,7 @@ public class Player2 : MonoBehaviour {
     public int numbjoy;
     int damage = 1;
     public NoteDestroyer inflictdamage;
+    public AudioSource slash;
 
 
 
@@ -63,18 +64,21 @@ public class Player2 : MonoBehaviour {
                 if (Input.GetKeyDown(keyRed) && active || Input.GetButtonDown("ButtonSquare") && active)
                 {
                     Destroy(noteRed);
-                 
+                    slash.Play();
+
                 }
                 if (Input.GetKeyDown(keyBlue) && active || Input.GetButtonDown("ButtonTriangle") && active)
                 {
                     Destroy(noteBlue);
+                    slash.Play();
 
-                
+
 
                 }
                 if (Input.GetKeyDown(keyBlue) && Input.GetKeyDown(keyRed) && active || Input.GetButtonDown("ButtonSquare") && Input.GetButtonDown("ButtonTriangle") && active)
                 {
                     Destroy(notePurple);
+                    slash.Play();
                 }
             }
         }
