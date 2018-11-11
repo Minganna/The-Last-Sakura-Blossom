@@ -17,7 +17,8 @@ public class Player2 : MonoBehaviour {
     public GameObject NB;
     public GameObject NP;
     public int numbjoy;
-
+    int damage = 1;
+    public NoteDestroyer inflictdamage;
 
 
 
@@ -62,10 +63,14 @@ public class Player2 : MonoBehaviour {
                 if (Input.GetKeyDown(keyRed) && active || Input.GetButtonDown("ButtonSquare") && active)
                 {
                     Destroy(noteRed);
+                 
                 }
                 if (Input.GetKeyDown(keyBlue) && active || Input.GetButtonDown("ButtonTriangle") && active)
                 {
                     Destroy(noteBlue);
+
+                
+
                 }
                 if (Input.GetKeyDown(keyBlue) && Input.GetKeyDown(keyRed) && active || Input.GetButtonDown("ButtonSquare") && Input.GetButtonDown("ButtonTriangle") && active)
                 {

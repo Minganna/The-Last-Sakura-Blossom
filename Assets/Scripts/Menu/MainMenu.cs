@@ -35,7 +35,7 @@ public class MainMenu : MonoBehaviour {
             {
                 selection += 1;
             }
-            if (Input.GetKeyDown(directionalkeys[1]) && selection >= 0 && selection <= 2||Input.GetButtonDown("JoystickUp") && selection >= 0 && selection <= 1)
+            if (Input.GetKeyDown(directionalkeys[1]) && selection > 0 && selection <= 2||Input.GetButtonDown("JoystickUp") && selection >= 0 && selection <= 1)
             {
                 selection -= 1;
             }
@@ -46,7 +46,7 @@ public class MainMenu : MonoBehaviour {
             {
                 selection += 1;
             }
-            if (Input.GetKeyDown(directionalkeys[1]) && selection >= 0 && selection < 2 || Input.GetButtonDown("JoystickUp") && selection >= 0 && selection < 2)
+            if (Input.GetKeyDown(directionalkeys[1]) && selection > 0 && selection < 2 || Input.GetButtonDown("JoystickUp") && selection >= 0 && selection < 2)
             {
                 selection -= 1;
             }

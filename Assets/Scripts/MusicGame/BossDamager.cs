@@ -33,10 +33,14 @@ public class BossDamager : MonoBehaviour {
     {
         if (Bosshealth > 0)
         {
-            if (Input.GetKeyDown(keyRedPlayer1) || Input.GetKeyDown(keyBluePlayer1) || Input.GetKeyDown(keyRedPlayer2) || Input.GetKeyDown(keyBluePlayer2)||Input.GetButtonDown("ButtonX")|| Input.GetButtonDown("ButtonCircle"))
+            if (Input.GetKeyDown(keyRedPlayer1)&& col.gameObject.tag == "NoteRed" || Input.GetKeyDown(keyBluePlayer1)&&col.gameObject.tag == "NoteBlue" ||
+                Input.GetKeyDown(keyRedPlayer2) && col.gameObject.tag == "NoteRed" || Input.GetKeyDown(keyBluePlayer2) && col.gameObject.tag == "NoteBlue"||
+                Input.GetKeyDown(keyRedPlayer1)&&  Input.GetKeyDown(keyBluePlayer1)&& col.gameObject.tag == "NotePurple"||
+                Input.GetButtonDown("ButtonX") && col.gameObject.tag == "NoteRed"|| Input.GetButtonDown("ButtonCircle")&& col.gameObject.tag == "NoteBlue"||
+                Input.GetButtonDown("ButtonSquare") && col.gameObject.tag == "NoteRed" || Input.GetButtonDown("ButtonTriangle") && col.gameObject.tag == "NoteBlue" ||
+                 Input.GetButtonDown("ButtonX") && Input.GetButtonDown("ButtonCircle")&& col.gameObject.tag == "NotePurple"||
+                Input.GetButtonDown("ButtonSquare") && Input.GetButtonDown("ButtonTriangle") && col.gameObject.tag == "NotePurple")
             {
-                if (col.gameObject.tag == "NoteRed" || col.gameObject.tag == "NoteBlue" || col.gameObject.tag == "NotePurple")
-
                     if (Damaging.bossy == false)
                     { Bosshealth -= 1; }
                 if (Playerhealth.health < 40 && Playerhealth.health > 0)

@@ -17,6 +17,8 @@ public class activator : MonoBehaviour {
     public GameObject NB;
     public GameObject NP;
     public int numbjoy;
+    int damage=1;
+    public NoteDestroyer inflictdamage;
     
 
     
@@ -59,15 +61,20 @@ public class activator : MonoBehaviour {
                 if (Input.GetKeyDown(keyRed) && active || Input.GetButtonDown("ButtonX") && active)
                 {
                     Destroy(noteRed);
+                  
+                 
                 }
                 if (Input.GetKeyDown(keyBlue) && active || Input.GetButtonDown("ButtonCircle") && active)
                 {
                     Destroy(noteBlue);
+                 
+               
                 }
                 if (Input.GetKeyDown(keyBlue) && Input.GetKeyDown(keyRed) && active || Input.GetButtonDown("ButtonX") && Input.GetButtonDown("ButtonCircle") && active)
                 {
                     Destroy(notePurple);
                 }
+
             }
         }
            

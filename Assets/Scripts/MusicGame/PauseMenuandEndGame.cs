@@ -86,12 +86,12 @@ public class PauseMenuandEndGame : MonoBehaviour {
     IEnumerator WaitToPress2()
     {
         yield return new WaitForSeconds(1f);
-        if (Input.GetButtonDown("ButtonCircle")  || Input.GetButtonDown("ButtonTriangle") || Input.GetKeyDown(KandL.keyBlue) && ispaused == true || Input.GetKeyDown(AandS.keyBlue) && ispaused == true)
+        if (Input.GetButtonDown("ButtonCircle")  || Input.GetButtonDown("ButtonTriangle") || Input.GetKeyDown(KandL.keyBlue)  || Input.GetKeyDown(AandS.keyBlue))
         {
             SceneManager.LoadScene("MainMenu");
         }
 
-        if (Input.GetButtonDown("ButtonX")  || Input.GetButtonDown("ButtonSquare") || Input.GetKeyDown(KandL.keyRed) && ispaused == true || Input.GetKeyDown(AandS.keyRed) && ispaused == true)
+        if (Input.GetButtonDown("ButtonX")  || Input.GetButtonDown("ButtonSquare") || Input.GetKeyDown(KandL.keyRed)  || Input.GetKeyDown(AandS.keyRed) )
             SceneManager.LoadScene("SampleScene");
         }
     }

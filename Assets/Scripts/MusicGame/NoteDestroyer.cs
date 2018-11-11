@@ -7,6 +7,7 @@ public class NoteDestroyer : MonoBehaviour {
     public int health=10;
     public Slider healthbar;
 
+
     void Update()
     {
        
