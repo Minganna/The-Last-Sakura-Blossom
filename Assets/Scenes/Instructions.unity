@@ -511,8 +511,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 426.1, y: -95.19999}
-  m_SizeDelta: {x: 250, y: 300}
+  m_AnchoredPosition: {x: 542.9, y: -95.19999}
+  m_SizeDelta: {x: 500, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1250944364
 MonoBehaviour:
@@ -546,9 +546,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Player 1(0)
+  m_Text: '(0)(triangle)
 
-    Player 2(triangle)'
+
+'
 --- !u!222 &1250944365
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -588,8 +589,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 424.4, y: 58.8}
-  m_SizeDelta: {x: 250, y: 300}
+  m_AnchoredPosition: {x: 502.9, y: 58.8}
+  m_SizeDelta: {x: 300, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1312483553
 MonoBehaviour:
@@ -623,9 +624,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Player 1(X)
+  m_Text: '(X)(O)
 
-    Player 2(O)'
+'
 --- !u!222 &1312483554
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -844,8 +845,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 417.1, y: -264.5}
-  m_SizeDelta: {x: 300, y: 300}
+  m_AnchoredPosition: {x: 593.7, y: -264.5}
+  m_SizeDelta: {x: 600, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1812841520
 MonoBehaviour:
@@ -879,9 +880,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Player 1(X)&(0)
+  m_Text: '(O)&(Triagle)
 
-    Player 2(O)&(triangle)'
+    or (X)&(0)'
 --- !u!222 &1812841521
 CanvasRenderer:
   m_ObjectHideFlags: 0

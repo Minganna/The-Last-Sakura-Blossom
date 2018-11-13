@@ -9,6 +9,9 @@ TagManager:
   - NoteBlue
   - NotePurple
   - Cloud
+  - collider1
+  - collider2
+  - collider3
   layers:
   - Default
   - TransparentFX
@@ -20,9 +23,9 @@ TagManager:
   - 
   - Note
   - BackGround
-  - 
-  - 
-  - 
+  - Collider2
+  - Collider1
+  - Activators
   - 
   - 
   - 

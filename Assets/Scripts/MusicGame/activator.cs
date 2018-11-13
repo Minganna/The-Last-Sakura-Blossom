@@ -20,15 +20,15 @@ public class activator : MonoBehaviour {
     int damage=1;
     public NoteDestroyer inflictdamage;
     public AudioSource slash;
-
-
-
-
-
+    public int Goodorbad;
+ 
+   
+  
     void Start()
     {
        old= color.color;
   
+
     }
 
     // Use this for initialization
@@ -39,6 +39,8 @@ public class activator : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+    
+        
         if (numbjoy == 0)
         {
             if (Createmode == true && Input.GetKeyDown(keyRed) || Createmode == true && Input.GetButtonDown("ButtonX"))
@@ -58,23 +60,29 @@ public class activator : MonoBehaviour {
                 if (Input.GetKeyDown(keyRed) || Input.GetKeyDown(keyBlue) || Input.GetButtonDown("ButtonX") || Input.GetButtonDown("ButtonCircle"))
                 {
                     StartCoroutine(notedone());
+                    
                 }
                 if (Input.GetKeyDown(keyRed) && active || Input.GetButtonDown("ButtonX") && active)
                 {
                     Destroy(noteRed);
                     slash.Play();
+                 
+               
 
                 }
                 if (Input.GetKeyDown(keyBlue) && active || Input.GetButtonDown("ButtonCircle") && active)
                 {
                     Destroy(noteBlue);
                     slash.Play();
+                 
 
                 }
                 if (Input.GetKeyDown(keyBlue) && Input.GetKeyDown(keyRed) && active || Input.GetButtonDown("ButtonX") && Input.GetButtonDown("ButtonCircle") && active)
                 {
                     Destroy(notePurple);
                     slash.Play();
+                
+                 
                 }
 
             }
@@ -91,23 +99,31 @@ public class activator : MonoBehaviour {
     void OnTriggerEnter2D(Collider2D col)
     {
         active = true;
+       
+            if (col.gameObject.tag == "NoteRed")
+            {
+                Goodorbad = 2;
+                noteRed = col.gameObject;
+
+            }
+            if (col.gameObject.tag == "NoteBlue")
+            {
+                Goodorbad = 2;
+                noteBlue = col.gameObject;
+            }
+            if (col.gameObject.tag == "NotePurple")
+            {
+                Goodorbad = 2;
+                notePurple = col.gameObject;
+            }
       
-        if(col.gameObject.tag=="NoteRed")
-        {
-            noteRed = col.gameObject;
-        }
-        if (col.gameObject.tag == "NoteBlue")
-        {
-            noteBlue = col.gameObject;
-        }
-        if (col.gameObject.tag == "NotePurple")
-        {
-            notePurple = col.gameObject;
-        }
     }
 
-    void OnTriggerExit2D(Collider2D col)
+   
+
+        void OnTriggerExit2D(Collider2D col)
     {
+        Goodorbad = 1;
         active = false;
         noteRed = null;
         notePurple = null;
