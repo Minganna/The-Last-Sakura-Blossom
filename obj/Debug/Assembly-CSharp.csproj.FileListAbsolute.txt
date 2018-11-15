@@ -327,6 +327,5 @@ G:\SecondYear\GameJam3\Hero of Rithm\The-Last-Sakura-Blossom\Temp\bin\Debug\Unit
 G:\SecondYear\GameJam3\Hero of Rithm\The-Last-Sakura-Blossom\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
 G:\SecondYear\GameJam3\Hero of Rithm\The-Last-Sakura-Blossom\Temp\bin\Debug\UnityEngine.HoloLens.xml
 G:\SecondYear\GameJam3\Hero of Rithm\The-Last-Sakura-Blossom\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
-G:\SecondYear\GameJam3\Hero of Rithm\The-Last-Sakura-Blossom\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 G:\SecondYear\GameJam3\Hero of Rithm\The-Last-Sakura-Blossom\obj\Debug\Assembly-CSharp.dll
 G:\SecondYear\GameJam3\Hero of Rithm\The-Last-Sakura-Blossom\obj\Debug\Assembly-CSharp.pdb

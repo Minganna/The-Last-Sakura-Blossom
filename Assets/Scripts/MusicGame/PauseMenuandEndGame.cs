@@ -33,14 +33,14 @@ public class PauseMenuandEndGame : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if(Input.GetKeyDown(pausekey)||Input.GetButtonDown("PadStart")&&ispaused==false)
+		if(Input.GetKeyDown(pausekey) && ispaused == false || Input.GetButtonDown("PadStart")&&ispaused==false)
         {
             Notes.SetActive(false);
             Pausemenu.SetActive(true);
             ispaused = true;
             return;
         }
-        if (Input.GetKeyDown(pausekey) || Input.GetButtonDown("PadStart") && ispaused == true)
+        if (Input.GetKeyDown(pausekey) && ispaused == true || Input.GetButtonDown("PadStart") && ispaused == true)
         {
             Notes.SetActive(true);
             Pausemenu.SetActive(false);

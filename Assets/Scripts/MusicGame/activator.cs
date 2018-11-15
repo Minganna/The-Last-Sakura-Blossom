@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class activator : MonoBehaviour {
     SpriteRenderer color;
+   
     public KeyCode keyRed;
     public KeyCode keyBlue;
     bool active = false;
@@ -20,14 +21,26 @@ public class activator : MonoBehaviour {
     int damage=1;
     public NoteDestroyer inflictdamage;
     public AudioSource slash;
-    public int Goodorbad;
- 
-   
-  
+    Note Redsnotes;
+    GameObject[] RedNotearray;
+    public GameObject score1;
+    GameObject score2;
+    Text ScorePlayer1;
+    Text ScorePlayer2;
+    NoteDestroyer noteDestroy;
+    GameObject NoteD;
+    bool courodone=false;
+
+
     void Start()
     {
        old= color.color;
-  
+       
+        ScorePlayer1 = score1.GetComponent<Text>();
+       
+        NoteD = GameObject.FindGameObjectWithTag("NoteDestroyer");
+        noteDestroy = NoteD.GetComponent<NoteDestroyer>();
+
 
     }
 
@@ -39,8 +52,19 @@ public class activator : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-    
-        
+
+        if (noteDestroy.miss == true)
+        {
+            score1.SetActive(true);
+             ScorePlayer1.text = "Miss";
+            if (courodone == false)
+            {
+                courodone = true;
+                StartCoroutine(TextAway());
+            }
+
+        }
+
         if (numbjoy == 0)
         {
             if (Createmode == true && Input.GetKeyDown(keyRed) || Createmode == true && Input.GetButtonDown("ButtonX"))
@@ -87,8 +111,33 @@ public class activator : MonoBehaviour {
 
             }
         }
-           
-                }
+        if (numbjoy == 1)
+        {
+            if (Input.GetKeyDown(keyRed) || Input.GetKeyDown(keyBlue) || Input.GetButtonDown("ButtonSquare") || Input.GetButtonDown("ButtonTriangle"))
+            {
+                StartCoroutine(notedone());
+            }
+            if (Input.GetKeyDown(keyRed) && active || Input.GetButtonDown("ButtonSquare") && active)
+            {
+                Destroy(noteRed);
+                slash.Play();
+
+            }
+            if (Input.GetKeyDown(keyBlue) && active || Input.GetButtonDown("ButtonTriangle") && active)
+            {
+                Destroy(noteBlue);
+                slash.Play();
+
+
+
+            }
+            if (Input.GetKeyDown(keyBlue) && Input.GetKeyDown(keyRed) && active || Input.GetButtonDown("ButtonSquare") && Input.GetButtonDown("ButtonTriangle") && active)
+            {
+                Destroy(notePurple);
+                slash.Play();
+            }
+        }
+    }
             
         
 
@@ -102,18 +151,18 @@ public class activator : MonoBehaviour {
        
             if (col.gameObject.tag == "NoteRed")
             {
-                Goodorbad = 2;
+            
                 noteRed = col.gameObject;
 
             }
             if (col.gameObject.tag == "NoteBlue")
             {
-                Goodorbad = 2;
+         
                 noteBlue = col.gameObject;
             }
             if (col.gameObject.tag == "NotePurple")
             {
-                Goodorbad = 2;
+           
                 notePurple = col.gameObject;
             }
       
@@ -123,7 +172,6 @@ public class activator : MonoBehaviour {
 
         void OnTriggerExit2D(Collider2D col)
     {
-        Goodorbad = 1;
         active = false;
         noteRed = null;
         notePurple = null;
@@ -136,5 +184,57 @@ public class activator : MonoBehaviour {
         color.color = new Color(0, 0, 0);
         yield return new WaitForSeconds(0.2f);
         color.color = old;
+    }
+    public void BadScore()
+    {
+        if (Input.GetKeyDown(keyBlue) && noteRed || Input.GetKeyDown(keyRed) && noteBlue)
+        {
+            score1.SetActive(true);
+            ScorePlayer1.text = "Bad";
+            noteDestroy.miss =false;
+            if (courodone == false)
+            {
+                courodone = true;
+                StartCoroutine(TextAway());
+            }
+        }
+
+    }
+    public void GoodScore()
+    {
+        if (Input.GetKeyDown(keyRed) && noteRed|| Input.GetKeyDown(keyBlue) && noteBlue|| Input.GetKeyDown(keyRed)&& Input.GetKeyDown(keyBlue)&&notePurple)
+        {
+            score1.SetActive(true);
+            ScorePlayer1.text = "Good";
+            noteDestroy.miss = false;
+            if (courodone == false)
+            {
+                courodone = true;
+                StartCoroutine(TextAway());
+            }
+        }
+    }
+    public void PerfectScore()
+    {
+        if (Input.GetKeyDown(keyRed) && noteRed || Input.GetKeyDown(keyBlue) && noteBlue || Input.GetKeyDown(keyRed) && Input.GetKeyDown(keyBlue) && notePurple)
+        {
+            score1.SetActive(true);
+            ScorePlayer1.text = "Perfect";
+            noteDestroy.miss = false;
+            if (courodone == false)
+            {
+                courodone = true;
+                StartCoroutine(TextAway());
+            }
+        }
+
+    }
+
+
+    IEnumerator TextAway()
+    {
+        yield return new WaitForSeconds(0.2f);
+        score1.SetActive(false);
+        courodone = false;
     }
 }

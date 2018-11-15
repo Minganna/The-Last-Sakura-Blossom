@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class NoteDestroyer : MonoBehaviour {
     public int health=10;
     public Slider healthbar;
+   public  bool miss;
 
 
     void Update()
@@ -22,16 +23,22 @@ public class NoteDestroyer : MonoBehaviour {
             {
                 Destroy(other.gameObject);
                 health -= 1;
+                miss = true;
+
             }
             if (other.gameObject.tag == "NoteBlue")
             {
                 Destroy(other.gameObject);
                 health -= 1;
+                miss = true;
+             
             }
             if (other.gameObject.tag == "NotePurple")
             {
                 Destroy(other.gameObject);
                 health -= 1;
+                miss = true;
+                
             }
             
         }

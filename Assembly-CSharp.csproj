@@ -71,9 +71,11 @@
     <Compile Include="Assets\Scripts\MusicGame\MultiPlayer.cs" />
     <Compile Include="Assets\Scripts\MusicGame\Note.cs" />
     <Compile Include="Assets\Scripts\MusicGame\NoteDestroyer.cs" />
+    <Compile Include="Assets\Scripts\MusicGame\NoteMovements.cs" />
     <Compile Include="Assets\Scripts\MusicGame\PauseMenuandEndGame.cs" />
     <Compile Include="Assets\Scripts\MusicGame\Player2.cs" />
     <Compile Include="Assets\Scripts\MusicGame\Score.cs" />
+    <Compile Include="Assets\Scripts\MusicGame\SongManager\PositionTracking.cs" />
     <Compile Include="Assets\Scripts\MusicGame\SpawingClouds.cs" />
     <Compile Include="Assets\Scripts\MusicGame\TenguFan.cs" />
     <Compile Include="Assets\Scripts\MusicGame\Thunders.cs" />

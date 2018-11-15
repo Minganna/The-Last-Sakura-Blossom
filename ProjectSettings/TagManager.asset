@@ -12,6 +12,10 @@ TagManager:
   - collider1
   - collider2
   - collider3
+  - ScorePlayer1
+  - ScorePlayer2
+  - collider4
+  - NoteDestroyer
   layers:
   - Default
   - TransparentFX

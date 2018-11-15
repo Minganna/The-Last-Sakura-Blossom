@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class SorMplayers : MonoBehaviour {
-   static public bool howmanyplayer = false;
+   static public bool howmanyplayer = true;
     static public bool bosslife = false;
     public bool bossy = false;
     public bool Ciao = false;

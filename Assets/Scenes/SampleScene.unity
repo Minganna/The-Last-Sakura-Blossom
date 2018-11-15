@@ -189,8 +189,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &28666669
 Rigidbody2D:
   serializedVersion: 4
@@ -315,8 +314,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &28786102
 Rigidbody2D:
   serializedVersion: 4
@@ -441,8 +439,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &30079892
 Rigidbody2D:
   serializedVersion: 4
@@ -567,8 +564,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &30495484
 Rigidbody2D:
   serializedVersion: 4
@@ -693,8 +689,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &35915330
 Rigidbody2D:
   serializedVersion: 4
@@ -819,8 +814,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &37040078
 Rigidbody2D:
   serializedVersion: 4
@@ -945,8 +939,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &37655203
 Rigidbody2D:
   serializedVersion: 4
@@ -1071,8 +1064,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &41210923
 Rigidbody2D:
   serializedVersion: 4
@@ -1197,8 +1189,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &46639925
 Rigidbody2D:
   serializedVersion: 4
@@ -1323,8 +1314,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &47802036
 Rigidbody2D:
   serializedVersion: 4
@@ -1449,8 +1439,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &49417877
 Rigidbody2D:
   serializedVersion: 4
@@ -1621,8 +1610,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &51785048
 Rigidbody2D:
   serializedVersion: 4
@@ -1747,8 +1735,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &54787075
 Rigidbody2D:
   serializedVersion: 4
@@ -1873,8 +1860,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &61896181
 Rigidbody2D:
   serializedVersion: 4
@@ -1999,8 +1985,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &68303582
 Rigidbody2D:
   serializedVersion: 4
@@ -2125,8 +2110,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &69726984
 Rigidbody2D:
   serializedVersion: 4
@@ -2251,8 +2235,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &78866397
 Rigidbody2D:
   serializedVersion: 4
@@ -2377,8 +2360,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &84772449
 Rigidbody2D:
   serializedVersion: 4
@@ -2503,8 +2485,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &89513775
 Rigidbody2D:
   serializedVersion: 4
@@ -2629,8 +2610,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &91340121
 Rigidbody2D:
   serializedVersion: 4
@@ -2755,8 +2735,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &96423506
 Rigidbody2D:
   serializedVersion: 4
@@ -2881,8 +2860,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &97164184
 Rigidbody2D:
   serializedVersion: 4
@@ -3007,8 +2985,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &97876063
 Rigidbody2D:
   serializedVersion: 4
@@ -3133,8 +3110,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &99479839
 Rigidbody2D:
   serializedVersion: 4
@@ -3259,8 +3235,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &105255376
 Rigidbody2D:
   serializedVersion: 4
@@ -3385,8 +3360,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &110487837
 Rigidbody2D:
   serializedVersion: 4
@@ -3511,8 +3485,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &112088993
 Rigidbody2D:
   serializedVersion: 4
@@ -3637,8 +3610,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &115231006
 Rigidbody2D:
   serializedVersion: 4
@@ -3763,8 +3735,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &128722641
 Rigidbody2D:
   serializedVersion: 4
@@ -3889,8 +3860,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &128993452
 Rigidbody2D:
   serializedVersion: 4
@@ -4015,8 +3985,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &134715450
 Rigidbody2D:
   serializedVersion: 4
@@ -4141,8 +4110,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &138651192
 Rigidbody2D:
   serializedVersion: 4
@@ -4267,8 +4235,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &143657431
 Rigidbody2D:
   serializedVersion: 4
@@ -4393,8 +4360,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &146115467
 Rigidbody2D:
   serializedVersion: 4
@@ -4519,8 +4485,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &146212769
 Rigidbody2D:
   serializedVersion: 4
@@ -4645,8 +4610,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &147393014
 Rigidbody2D:
   serializedVersion: 4
@@ -4771,8 +4735,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &152057052
 Rigidbody2D:
   serializedVersion: 4
@@ -4897,8 +4860,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &154723813
 Rigidbody2D:
   serializedVersion: 4
@@ -5023,8 +4985,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &156147443
 Rigidbody2D:
   serializedVersion: 4
@@ -5154,8 +5115,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &164719214
 Rigidbody2D:
   serializedVersion: 4
@@ -5280,8 +5240,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &168730804
 Rigidbody2D:
   serializedVersion: 4
@@ -5406,8 +5365,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &170146324
 Rigidbody2D:
   serializedVersion: 4
@@ -5532,8 +5490,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &174237863
 Rigidbody2D:
   serializedVersion: 4
@@ -5658,8 +5615,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &175314098
 Rigidbody2D:
   serializedVersion: 4
@@ -5784,8 +5740,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &175462425
 Rigidbody2D:
   serializedVersion: 4
@@ -5910,8 +5865,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &178245622
 Rigidbody2D:
   serializedVersion: 4
@@ -6036,8 +5990,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &179488381
 Rigidbody2D:
   serializedVersion: 4
@@ -6162,8 +6115,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &180467933
 Rigidbody2D:
   serializedVersion: 4
@@ -6288,8 +6240,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &182112000
 Rigidbody2D:
   serializedVersion: 4
@@ -6371,6 +6322,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &182560272 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1926665891470322, guid: 79d7892470c23734f801b32384f43718,
+    type: 2}
+  m_PrefabInternal: {fileID: 290482876}
 --- !u!1 &182831753
 GameObject:
   m_ObjectHideFlags: 0
@@ -6538,8 +6494,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &185592962
 Rigidbody2D:
   serializedVersion: 4
@@ -6664,8 +6619,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &190202087
 Rigidbody2D:
   serializedVersion: 4
@@ -6790,8 +6744,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &193309059
 Rigidbody2D:
   serializedVersion: 4
@@ -6916,8 +6869,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &197382213
 Rigidbody2D:
   serializedVersion: 4
@@ -7042,8 +6994,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &197672357
 Rigidbody2D:
   serializedVersion: 4
@@ -7245,8 +7196,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &203460235
 Rigidbody2D:
   serializedVersion: 4
@@ -7371,8 +7321,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &204342705
 Rigidbody2D:
   serializedVersion: 4
@@ -7497,8 +7446,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &210213115
 Rigidbody2D:
   serializedVersion: 4
@@ -7623,8 +7571,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &213344869
 Rigidbody2D:
   serializedVersion: 4
@@ -7749,8 +7696,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &213423426
 Rigidbody2D:
   serializedVersion: 4
@@ -7875,8 +7821,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &214696140
 Rigidbody2D:
   serializedVersion: 4
@@ -8001,8 +7946,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &215146279
 Rigidbody2D:
   serializedVersion: 4
@@ -8127,8 +8071,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &221843464
 Rigidbody2D:
   serializedVersion: 4
@@ -8217,78 +8160,93 @@ Prefab:
   m_Modification:
     m_TransformParent: {fileID: 530514300}
     m_Modifications:
-    - target: {fileID: 4372402480877732, guid: 8eaa64fefd17ab04ea6ea7807d8c009e, type: 2}
+    - target: {fileID: 4610060928371934, guid: d61f5897791943741b8a74c44f4c6357, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 9.6
+      value: 9.24
       objectReference: {fileID: 0}
-    - target: {fileID: 4372402480877732, guid: 8eaa64fefd17ab04ea6ea7807d8c009e, type: 2}
+    - target: {fileID: 4610060928371934, guid: d61f5897791943741b8a74c44f4c6357, type: 2}
       propertyPath: m_LocalPosition.y
       value: -30.3
       objectReference: {fileID: 0}
-    - target: {fileID: 4372402480877732, guid: 8eaa64fefd17ab04ea6ea7807d8c009e, type: 2}
+    - target: {fileID: 4610060928371934, guid: d61f5897791943741b8a74c44f4c6357, type: 2}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4372402480877732, guid: 8eaa64fefd17ab04ea6ea7807d8c009e, type: 2}
+    - target: {fileID: 4610060928371934, guid: d61f5897791943741b8a74c44f4c6357, type: 2}
       propertyPath: m_LocalRotation.x
       value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 4372402480877732, guid: 8eaa64fefd17ab04ea6ea7807d8c009e, type: 2}
+    - target: {fileID: 4610060928371934, guid: d61f5897791943741b8a74c44f4c6357, type: 2}
       propertyPath: m_LocalRotation.y
       value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 4372402480877732, guid: 8eaa64fefd17ab04ea6ea7807d8c009e, type: 2}
+    - target: {fileID: 4610060928371934, guid: d61f5897791943741b8a74c44f4c6357, type: 2}
       propertyPath: m_LocalRotation.z
       value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 4372402480877732, guid: 8eaa64fefd17ab04ea6ea7807d8c009e, type: 2}
+    - target: {fileID: 4610060928371934, guid: d61f5897791943741b8a74c44f4c6357, type: 2}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4372402480877732, guid: 8eaa64fefd17ab04ea6ea7807d8c009e, type: 2}
+    - target: {fileID: 4610060928371934, guid: d61f5897791943741b8a74c44f4c6357, type: 2}
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 1359227452929448, guid: 8eaa64fefd17ab04ea6ea7807d8c009e, type: 2}
+    - target: {fileID: 114590728901999002, guid: d61f5897791943741b8a74c44f4c6357,
+        type: 2}
+      propertyPath: inflictdamage
+      value: 
+      objectReference: {fileID: 340494809}
+    - target: {fileID: 114590728901999002, guid: d61f5897791943741b8a74c44f4c6357,
+        type: 2}
+      propertyPath: slash
+      value: 
+      objectReference: {fileID: 182831754}
+    - target: {fileID: 1961800193619126, guid: d61f5897791943741b8a74c44f4c6357, type: 2}
       propertyPath: m_Name
       value: ActivatorSword
       objectReference: {fileID: 0}
-    - target: {fileID: 114606799627953610, guid: 8eaa64fefd17ab04ea6ea7807d8c009e,
-        type: 2}
-      propertyPath: NR
-      value: 
-      objectReference: {fileID: 1052577944330342, guid: f1f26c42fd91320479a6f83753bbbe2d,
-        type: 2}
-    - target: {fileID: 114606799627953610, guid: 8eaa64fefd17ab04ea6ea7807d8c009e,
-        type: 2}
-      propertyPath: NB
-      value: 
-      objectReference: {fileID: 1119093504990822, guid: dd2a82933c5bb3046a6c39dd2b16eb32,
-        type: 2}
-    - target: {fileID: 114606799627953610, guid: 8eaa64fefd17ab04ea6ea7807d8c009e,
-        type: 2}
-      propertyPath: NP
-      value: 
-      objectReference: {fileID: 1220500033416330, guid: fa10a2667867b254fb0e8e87307cbe22,
-        type: 2}
-    - target: {fileID: 114606799627953610, guid: 8eaa64fefd17ab04ea6ea7807d8c009e,
-        type: 2}
-      propertyPath: NumbJoypad
-      value: 2
+    - target: {fileID: 1961800193619126, guid: d61f5897791943741b8a74c44f4c6357, type: 2}
+      propertyPath: m_TagString
+      value: collider3
       objectReference: {fileID: 0}
-    - target: {fileID: 114606799627953610, guid: 8eaa64fefd17ab04ea6ea7807d8c009e,
-        type: 2}
-      propertyPath: numbjoy
+    - target: {fileID: 1961800193619126, guid: d61f5897791943741b8a74c44f4c6357, type: 2}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 1523871993615630, guid: d61f5897791943741b8a74c44f4c6357, type: 2}
+      propertyPath: m_Layer
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1029619041406140, guid: d61f5897791943741b8a74c44f4c6357, type: 2}
+      propertyPath: m_TagString
+      value: collider4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4610060928371934, guid: d61f5897791943741b8a74c44f4c6357, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4610060928371934, guid: d61f5897791943741b8a74c44f4c6357, type: 2}
+      propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 114606799627953610, guid: 8eaa64fefd17ab04ea6ea7807d8c009e,
+    - target: {fileID: 4610060928371934, guid: d61f5897791943741b8a74c44f4c6357, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 50392125533340638, guid: d61f5897791943741b8a74c44f4c6357,
         type: 2}
-      propertyPath: m_Enabled
+      propertyPath: m_CollisionDetection
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 50392125533340638, guid: d61f5897791943741b8a74c44f4c6357,
+        type: 2}
+      propertyPath: m_SleepingMode
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents:
-    - {fileID: 114606799627953610, guid: 8eaa64fefd17ab04ea6ea7807d8c009e, type: 2}
-  m_SourcePrefab: {fileID: 100100000, guid: 8eaa64fefd17ab04ea6ea7807d8c009e, type: 2}
+    - {fileID: 114590728901999002, guid: d61f5897791943741b8a74c44f4c6357, type: 2}
+  m_SourcePrefab: {fileID: 100100000, guid: d61f5897791943741b8a74c44f4c6357, type: 2}
   m_IsPrefabAsset: 0
 --- !u!1 &227807481
 GameObject:
@@ -8333,8 +8291,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &227807484
 Rigidbody2D:
   serializedVersion: 4
@@ -8515,8 +8472,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &228946430
 Rigidbody2D:
   serializedVersion: 4
@@ -8641,8 +8597,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &234689848
 Rigidbody2D:
   serializedVersion: 4
@@ -8767,8 +8722,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &236342516
 Rigidbody2D:
   serializedVersion: 4
@@ -8893,8 +8847,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &236794614
 Rigidbody2D:
   serializedVersion: 4
@@ -9019,8 +8972,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &243898100
 Rigidbody2D:
   serializedVersion: 4
@@ -9145,8 +9097,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &244020657
 Rigidbody2D:
   serializedVersion: 4
@@ -9271,8 +9222,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &244359547
 Rigidbody2D:
   serializedVersion: 4
@@ -9397,8 +9347,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &245496685
 Rigidbody2D:
   serializedVersion: 4
@@ -9523,8 +9472,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &246891142
 Rigidbody2D:
   serializedVersion: 4
@@ -9649,8 +9597,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &250285049
 Rigidbody2D:
   serializedVersion: 4
@@ -9775,8 +9722,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &251894826
 Rigidbody2D:
   serializedVersion: 4
@@ -9901,8 +9847,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &257163003
 Rigidbody2D:
   serializedVersion: 4
@@ -10027,8 +9972,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &266842111
 Rigidbody2D:
   serializedVersion: 4
@@ -10153,8 +10097,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &268632492
 Rigidbody2D:
   serializedVersion: 4
@@ -10279,8 +10222,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &283961099
 Rigidbody2D:
   serializedVersion: 4
@@ -10405,8 +10347,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &286515829
 Rigidbody2D:
   serializedVersion: 4
@@ -10531,8 +10472,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &287485387
 Rigidbody2D:
   serializedVersion: 4
@@ -10657,8 +10597,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &288359029
 Rigidbody2D:
   serializedVersion: 4
@@ -10740,6 +10679,106 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &290482876
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 471212456}
+    m_Modifications:
+    - target: {fileID: 224568399766757126, guid: 79d7892470c23734f801b32384f43718,
+        type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224568399766757126, guid: 79d7892470c23734f801b32384f43718,
+        type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224568399766757126, guid: 79d7892470c23734f801b32384f43718,
+        type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224568399766757126, guid: 79d7892470c23734f801b32384f43718,
+        type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224568399766757126, guid: 79d7892470c23734f801b32384f43718,
+        type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224568399766757126, guid: 79d7892470c23734f801b32384f43718,
+        type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224568399766757126, guid: 79d7892470c23734f801b32384f43718,
+        type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224568399766757126, guid: 79d7892470c23734f801b32384f43718,
+        type: 2}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224568399766757126, guid: 79d7892470c23734f801b32384f43718,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: 380.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 224568399766757126, guid: 79d7892470c23734f801b32384f43718,
+        type: 2}
+      propertyPath: m_AnchoredPosition.y
+      value: 329.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 224568399766757126, guid: 79d7892470c23734f801b32384f43718,
+        type: 2}
+      propertyPath: m_SizeDelta.x
+      value: 160
+      objectReference: {fileID: 0}
+    - target: {fileID: 224568399766757126, guid: 79d7892470c23734f801b32384f43718,
+        type: 2}
+      propertyPath: m_SizeDelta.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 224568399766757126, guid: 79d7892470c23734f801b32384f43718,
+        type: 2}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224568399766757126, guid: 79d7892470c23734f801b32384f43718,
+        type: 2}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224568399766757126, guid: 79d7892470c23734f801b32384f43718,
+        type: 2}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224568399766757126, guid: 79d7892470c23734f801b32384f43718,
+        type: 2}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224568399766757126, guid: 79d7892470c23734f801b32384f43718,
+        type: 2}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224568399766757126, guid: 79d7892470c23734f801b32384f43718,
+        type: 2}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 79d7892470c23734f801b32384f43718, type: 2}
+  m_IsPrefabAsset: 0
 --- !u!1 &292647667
 GameObject:
   m_ObjectHideFlags: 0
@@ -10783,8 +10822,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &292647670
 Rigidbody2D:
   serializedVersion: 4
@@ -10909,8 +10947,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &292905775
 Rigidbody2D:
   serializedVersion: 4
@@ -11035,8 +11072,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &294498097
 Rigidbody2D:
   serializedVersion: 4
@@ -11161,8 +11197,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &295468466
 Rigidbody2D:
   serializedVersion: 4
@@ -11287,8 +11322,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &303198190
 Rigidbody2D:
   serializedVersion: 4
@@ -11413,8 +11447,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &304750907
 Rigidbody2D:
   serializedVersion: 4
@@ -11539,8 +11572,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &305555356
 Rigidbody2D:
   serializedVersion: 4
@@ -11665,8 +11697,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &309417150
 Rigidbody2D:
   serializedVersion: 4
@@ -11796,8 +11827,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &313055511
 Rigidbody2D:
   serializedVersion: 4
@@ -11922,8 +11952,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &313197083
 Rigidbody2D:
   serializedVersion: 4
@@ -12048,8 +12077,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &315224262
 Rigidbody2D:
   serializedVersion: 4
@@ -12174,8 +12202,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &323280911
 Rigidbody2D:
   serializedVersion: 4
@@ -12300,8 +12327,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &328529407
 Rigidbody2D:
   serializedVersion: 4
@@ -12426,8 +12452,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &330868183
 Rigidbody2D:
   serializedVersion: 4
@@ -12552,8 +12577,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &330963897
 Rigidbody2D:
   serializedVersion: 4
@@ -12641,6 +12665,32 @@ MonoBehaviour:
     type: 2}
   m_PrefabInternal: {fileID: 613891295}
   m_Script: {fileID: 11500000, guid: 24e2d8a2a190ec74db8c64895c972373, type: 3}
+--- !u!1 &338337784 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1961800193619126, guid: d61f5897791943741b8a74c44f4c6357,
+    type: 2}
+  m_PrefabInternal: {fileID: 226330876}
+--- !u!114 &338337785
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 338337784}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3593c786ce33b614cae4e3fe2c8b2db2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  keyRed: 97
+  keyBlue: 115
+  Createmode: 0
+  NR: {fileID: 1052577944330342, guid: f1f26c42fd91320479a6f83753bbbe2d, type: 2}
+  NB: {fileID: 1119093504990822, guid: dd2a82933c5bb3046a6c39dd2b16eb32, type: 2}
+  NP: {fileID: 1220500033416330, guid: fa10a2667867b254fb0e8e87307cbe22, type: 2}
+  numbjoy: 1
+  inflictdamage: {fileID: 340494809}
+  slash: {fileID: 182831754}
+  score2: {fileID: 1975052422}
 --- !u!1 &340494807 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1091881357522578, guid: b6a741a16396c304f9dbcc5d90a0dc0a,
@@ -12700,8 +12750,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &342023200
 Rigidbody2D:
   serializedVersion: 4
@@ -12826,8 +12875,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &345710383
 Rigidbody2D:
   serializedVersion: 4
@@ -12952,8 +13000,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &345969446
 Rigidbody2D:
   serializedVersion: 4
@@ -13078,8 +13125,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &351456878
 Rigidbody2D:
   serializedVersion: 4
@@ -13204,8 +13250,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &353488175
 Rigidbody2D:
   serializedVersion: 4
@@ -13330,8 +13375,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &354386926
 Rigidbody2D:
   serializedVersion: 4
@@ -13456,8 +13500,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &354804050
 Rigidbody2D:
   serializedVersion: 4
@@ -13582,8 +13625,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &355138128
 Rigidbody2D:
   serializedVersion: 4
@@ -13708,8 +13750,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &356370242
 Rigidbody2D:
   serializedVersion: 4
@@ -13834,8 +13875,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &356870912
 Rigidbody2D:
   serializedVersion: 4
@@ -13960,8 +14000,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &357262191
 Rigidbody2D:
   serializedVersion: 4
@@ -14086,8 +14125,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &359251998
 Rigidbody2D:
   serializedVersion: 4
@@ -14212,8 +14250,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &360784068
 Rigidbody2D:
   serializedVersion: 4
@@ -14338,8 +14375,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &361516139
 Rigidbody2D:
   serializedVersion: 4
@@ -14464,8 +14500,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &364483309
 Rigidbody2D:
   serializedVersion: 4
@@ -14590,8 +14625,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &367633501
 Rigidbody2D:
   serializedVersion: 4
@@ -14716,8 +14750,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &369818090
 Rigidbody2D:
   serializedVersion: 4
@@ -14842,8 +14875,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &375247162
 Rigidbody2D:
   serializedVersion: 4
@@ -14968,8 +15000,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &376032070
 Rigidbody2D:
   serializedVersion: 4
@@ -15094,8 +15125,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &379026554
 Rigidbody2D:
   serializedVersion: 4
@@ -15220,8 +15250,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &387305031
 Rigidbody2D:
   serializedVersion: 4
@@ -15346,8 +15375,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &392266187
 Rigidbody2D:
   serializedVersion: 4
@@ -15472,8 +15500,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &393047277
 Rigidbody2D:
   serializedVersion: 4
@@ -15598,8 +15625,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &402022799
 Rigidbody2D:
   serializedVersion: 4
@@ -15724,8 +15750,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &404024830
 Rigidbody2D:
   serializedVersion: 4
@@ -15850,8 +15875,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &406926201
 Rigidbody2D:
   serializedVersion: 4
@@ -15976,8 +16000,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &411813105
 Rigidbody2D:
   serializedVersion: 4
@@ -16102,8 +16125,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &412994372
 Rigidbody2D:
   serializedVersion: 4
@@ -16228,8 +16250,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &419652542
 Rigidbody2D:
   serializedVersion: 4
@@ -16354,8 +16375,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &421002527
 Rigidbody2D:
   serializedVersion: 4
@@ -16480,8 +16500,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &422758662
 Rigidbody2D:
   serializedVersion: 4
@@ -16606,8 +16625,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &424634947
 Rigidbody2D:
   serializedVersion: 4
@@ -16732,8 +16750,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &425499612
 Rigidbody2D:
   serializedVersion: 4
@@ -16858,8 +16875,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &427667316
 Rigidbody2D:
   serializedVersion: 4
@@ -16984,8 +17000,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &430334645
 Rigidbody2D:
   serializedVersion: 4
@@ -17110,8 +17125,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &430986017
 Rigidbody2D:
   serializedVersion: 4
@@ -17236,8 +17250,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &433027856
 Rigidbody2D:
   serializedVersion: 4
@@ -17362,8 +17375,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &436172786
 Rigidbody2D:
   serializedVersion: 4
@@ -17488,8 +17500,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &439022669
 Rigidbody2D:
   serializedVersion: 4
@@ -17614,8 +17625,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &440745320
 Rigidbody2D:
   serializedVersion: 4
@@ -17740,8 +17750,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &442003859
 Rigidbody2D:
   serializedVersion: 4
@@ -17866,8 +17875,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &444743135
 Rigidbody2D:
   serializedVersion: 4
@@ -17992,8 +18000,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &446732482
 Rigidbody2D:
   serializedVersion: 4
@@ -18118,8 +18125,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &448871544
 Rigidbody2D:
   serializedVersion: 4
@@ -18244,8 +18250,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &449018667
 Rigidbody2D:
   serializedVersion: 4
@@ -18370,8 +18375,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &451131443
 Rigidbody2D:
   serializedVersion: 4
@@ -18496,8 +18500,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &462748054
 Rigidbody2D:
   serializedVersion: 4
@@ -18622,8 +18625,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &469001645
 Rigidbody2D:
   serializedVersion: 4
@@ -18710,6 +18712,11 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 1545458186320370, guid: 53685f2624b0f3f43a656a0edb5c5d71,
     type: 2}
   m_PrefabInternal: {fileID: 1352148918}
+--- !u!224 &471212456 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 224958689385917962, guid: 53685f2624b0f3f43a656a0edb5c5d71,
+    type: 2}
+  m_PrefabInternal: {fileID: 1352148918}
 --- !u!1 &475076093
 GameObject:
   m_ObjectHideFlags: 0
@@ -18753,8 +18760,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &475076096
 Rigidbody2D:
   serializedVersion: 4
@@ -18879,8 +18885,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &478714806
 Rigidbody2D:
   serializedVersion: 4
@@ -19005,8 +19010,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &480409766
 Rigidbody2D:
   serializedVersion: 4
@@ -19131,8 +19135,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &484143105
 Rigidbody2D:
   serializedVersion: 4
@@ -19257,8 +19260,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &486188396
 Rigidbody2D:
   serializedVersion: 4
@@ -19383,8 +19385,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &493736206
 Rigidbody2D:
   serializedVersion: 4
@@ -19514,8 +19515,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &498827899
 Rigidbody2D:
   serializedVersion: 4
@@ -19640,8 +19640,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &500083463
 Rigidbody2D:
   serializedVersion: 4
@@ -19766,8 +19765,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &504512582
 Rigidbody2D:
   serializedVersion: 4
@@ -19892,8 +19890,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &505966380
 Rigidbody2D:
   serializedVersion: 4
@@ -20018,8 +20015,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &510969128
 Rigidbody2D:
   serializedVersion: 4
@@ -20144,8 +20140,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &515686602
 Rigidbody2D:
   serializedVersion: 4
@@ -20347,8 +20342,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &519674279
 Rigidbody2D:
   serializedVersion: 4
@@ -20473,8 +20467,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &519719338
 Rigidbody2D:
   serializedVersion: 4
@@ -20599,8 +20592,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &529418826
 Rigidbody2D:
   serializedVersion: 4
@@ -20708,7 +20700,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 1}
   m_Children:
   - {fileID: 707698018}
-  - {fileID: 837057945}
+  - {fileID: 1725973643}
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -20755,8 +20747,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &533110922
 Rigidbody2D:
   serializedVersion: 4
@@ -20911,8 +20902,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &544283139
 Rigidbody2D:
   serializedVersion: 4
@@ -21037,8 +21027,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &546218280
 Rigidbody2D:
   serializedVersion: 4
@@ -21163,8 +21152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &548004768
 Rigidbody2D:
   serializedVersion: 4
@@ -21289,8 +21277,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &550244585
 Rigidbody2D:
   serializedVersion: 4
@@ -21415,8 +21402,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &550621501
 Rigidbody2D:
   serializedVersion: 4
@@ -21541,8 +21527,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &550781350
 Rigidbody2D:
   serializedVersion: 4
@@ -21667,8 +21652,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &552716970
 Rigidbody2D:
   serializedVersion: 4
@@ -21793,8 +21777,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &553953464
 Rigidbody2D:
   serializedVersion: 4
@@ -21919,8 +21902,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &554316478
 Rigidbody2D:
   serializedVersion: 4
@@ -22045,8 +22027,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &555133033
 Rigidbody2D:
   serializedVersion: 4
@@ -22171,8 +22152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &556581230
 Rigidbody2D:
   serializedVersion: 4
@@ -22297,8 +22277,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &558505143
 Rigidbody2D:
   serializedVersion: 4
@@ -22423,8 +22402,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &559970494
 Rigidbody2D:
   serializedVersion: 4
@@ -22549,8 +22527,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &564504108
 Rigidbody2D:
   serializedVersion: 4
@@ -22675,8 +22652,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &570521538
 Rigidbody2D:
   serializedVersion: 4
@@ -22801,8 +22777,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &577687864
 Rigidbody2D:
   serializedVersion: 4
@@ -22927,8 +22902,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &581191608
 Rigidbody2D:
   serializedVersion: 4
@@ -23053,8 +23027,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &586675232
 Rigidbody2D:
   serializedVersion: 4
@@ -23179,8 +23152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &597711443
 Rigidbody2D:
   serializedVersion: 4
@@ -23367,8 +23339,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &603184900
 Rigidbody2D:
   serializedVersion: 4
@@ -23493,8 +23464,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &605819643
 Rigidbody2D:
   serializedVersion: 4
@@ -23619,8 +23589,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &609254762
 Rigidbody2D:
   serializedVersion: 4
@@ -23745,8 +23714,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &611252519
 Rigidbody2D:
   serializedVersion: 4
@@ -23960,7 +23928,7 @@ Prefab:
         type: 2}
       propertyPath: AandS
       value: 
-      objectReference: {fileID: 1161374124}
+      objectReference: {fileID: 338337785}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d4c030572f2a3924d8b602871d7df71f, type: 2}
   m_IsPrefabAsset: 0
@@ -24007,8 +23975,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &614956062
 Rigidbody2D:
   serializedVersion: 4
@@ -24221,8 +24188,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &624042535
 Rigidbody2D:
   serializedVersion: 4
@@ -24347,8 +24313,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &632175622
 Rigidbody2D:
   serializedVersion: 4
@@ -24473,8 +24438,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &634515164
 Rigidbody2D:
   serializedVersion: 4
@@ -24599,8 +24563,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &635317653
 Rigidbody2D:
   serializedVersion: 4
@@ -24725,8 +24688,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &635807329
 Rigidbody2D:
   serializedVersion: 4
@@ -24851,8 +24813,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &639793809
 Rigidbody2D:
   serializedVersion: 4
@@ -24977,8 +24938,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &656588148
 Rigidbody2D:
   serializedVersion: 4
@@ -25103,8 +25063,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &667239063
 Rigidbody2D:
   serializedVersion: 4
@@ -25229,8 +25188,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &669969605
 Rigidbody2D:
   serializedVersion: 4
@@ -25385,8 +25343,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &689005773
 Rigidbody2D:
   serializedVersion: 4
@@ -25511,8 +25468,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &692408110
 Rigidbody2D:
   serializedVersion: 4
@@ -25637,8 +25593,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &695077291
 Rigidbody2D:
   serializedVersion: 4
@@ -25769,8 +25724,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &700611563
 Rigidbody2D:
   serializedVersion: 4
@@ -25895,8 +25849,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &703873400
 Rigidbody2D:
   serializedVersion: 4
@@ -26021,8 +25974,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &706508664
 Rigidbody2D:
   serializedVersion: 4
@@ -26106,7 +26058,7 @@ SpriteRenderer:
   m_SpriteSortPoint: 0
 --- !u!4 &707698018 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 4748244823050290, guid: bc757f729fdbb3c49b8eeb84c978760b,
+  m_CorrespondingSourceObject: {fileID: 4430804194752014, guid: bac574aef74e13d4e90616c19b5830b5,
     type: 2}
   m_PrefabInternal: {fileID: 1900651277}
 --- !u!1 &708109770
@@ -26186,8 +26138,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &709489897
 Rigidbody2D:
   serializedVersion: 4
@@ -26546,8 +26497,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &733212267
 Rigidbody2D:
   serializedVersion: 4
@@ -26672,8 +26622,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &733552704
 Rigidbody2D:
   serializedVersion: 4
@@ -26798,8 +26747,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &735602320
 Rigidbody2D:
   serializedVersion: 4
@@ -26924,8 +26872,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &735777599
 Rigidbody2D:
   serializedVersion: 4
@@ -27050,8 +26997,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &735863698
 Rigidbody2D:
   serializedVersion: 4
@@ -27176,8 +27122,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &745235851
 Rigidbody2D:
   serializedVersion: 4
@@ -27302,8 +27247,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &746449341
 Rigidbody2D:
   serializedVersion: 4
@@ -27428,8 +27372,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &754174590
 Rigidbody2D:
   serializedVersion: 4
@@ -27554,8 +27497,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &754977367
 Rigidbody2D:
   serializedVersion: 4
@@ -27680,8 +27622,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &755236964
 Rigidbody2D:
   serializedVersion: 4
@@ -27848,8 +27789,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &759371275
 Rigidbody2D:
   serializedVersion: 4
@@ -27974,8 +27914,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &765968246
 Rigidbody2D:
   serializedVersion: 4
@@ -28100,8 +28039,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &767132406
 Rigidbody2D:
   serializedVersion: 4
@@ -28226,8 +28164,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &772690977
 Rigidbody2D:
   serializedVersion: 4
@@ -28352,8 +28289,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &773134651
 Rigidbody2D:
   serializedVersion: 4
@@ -28478,8 +28414,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &775394659
 Rigidbody2D:
   serializedVersion: 4
@@ -28604,8 +28539,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &780180598
 Rigidbody2D:
   serializedVersion: 4
@@ -28730,8 +28664,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &789518973
 Rigidbody2D:
   serializedVersion: 4
@@ -28856,8 +28789,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &791981899
 Rigidbody2D:
   serializedVersion: 4
@@ -28982,8 +28914,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &792950299
 Rigidbody2D:
   serializedVersion: 4
@@ -29108,8 +29039,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &797736416
 Rigidbody2D:
   serializedVersion: 4
@@ -29234,8 +29164,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &799254630
 Rigidbody2D:
   serializedVersion: 4
@@ -29360,8 +29289,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &801391540
 Rigidbody2D:
   serializedVersion: 4
@@ -29486,8 +29414,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &802986464
 Rigidbody2D:
   serializedVersion: 4
@@ -29612,8 +29539,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &807353470
 Rigidbody2D:
   serializedVersion: 4
@@ -29738,8 +29664,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &809035239
 Rigidbody2D:
   serializedVersion: 4
@@ -29864,8 +29789,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &816064322
 Rigidbody2D:
   serializedVersion: 4
@@ -29990,8 +29914,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &817246286
 Rigidbody2D:
   serializedVersion: 4
@@ -30116,8 +30039,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &823668567
 Rigidbody2D:
   serializedVersion: 4
@@ -30242,8 +30164,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &825222380
 Rigidbody2D:
   serializedVersion: 4
@@ -30368,8 +30289,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &826114087
 Rigidbody2D:
   serializedVersion: 4
@@ -30494,8 +30414,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &827193254
 Rigidbody2D:
   serializedVersion: 4
@@ -30620,8 +30539,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &831887731
 Rigidbody2D:
   serializedVersion: 4
@@ -30703,11 +30621,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!4 &837057945 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4372402480877732, guid: 8eaa64fefd17ab04ea6ea7807d8c009e,
-    type: 2}
-  m_PrefabInternal: {fileID: 226330876}
 --- !u!1 &840029524
 GameObject:
   m_ObjectHideFlags: 0
@@ -30751,8 +30664,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &840029527
 Rigidbody2D:
   serializedVersion: 4
@@ -30877,8 +30789,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &840129491
 Rigidbody2D:
   serializedVersion: 4
@@ -31003,8 +30914,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &844278326
 Rigidbody2D:
   serializedVersion: 4
@@ -31129,8 +31039,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &844988838
 Rigidbody2D:
   serializedVersion: 4
@@ -31255,8 +31164,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &845127104
 Rigidbody2D:
   serializedVersion: 4
@@ -31381,8 +31289,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &847207046
 Rigidbody2D:
   serializedVersion: 4
@@ -31507,8 +31414,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &847751605
 Rigidbody2D:
   serializedVersion: 4
@@ -31643,8 +31549,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &856322769
 Rigidbody2D:
   serializedVersion: 4
@@ -31769,8 +31674,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &858423696
 Rigidbody2D:
   serializedVersion: 4
@@ -31895,8 +31799,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &864196909
 Rigidbody2D:
   serializedVersion: 4
@@ -32021,8 +31924,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &864851995
 Rigidbody2D:
   serializedVersion: 4
@@ -32147,8 +32049,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &869493538
 Rigidbody2D:
   serializedVersion: 4
@@ -32273,8 +32174,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &872402615
 Rigidbody2D:
   serializedVersion: 4
@@ -32445,8 +32345,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &883420146
 Rigidbody2D:
   serializedVersion: 4
@@ -32571,8 +32470,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &883771479
 Rigidbody2D:
   serializedVersion: 4
@@ -32697,8 +32595,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &886357470
 Rigidbody2D:
   serializedVersion: 4
@@ -32823,8 +32720,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &895073093
 Rigidbody2D:
   serializedVersion: 4
@@ -32949,8 +32845,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &895567269
 Rigidbody2D:
   serializedVersion: 4
@@ -33075,8 +32970,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &902364868
 Rigidbody2D:
   serializedVersion: 4
@@ -33201,8 +33095,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &904252376
 Rigidbody2D:
   serializedVersion: 4
@@ -33327,8 +33220,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &905873899
 Rigidbody2D:
   serializedVersion: 4
@@ -33453,8 +33345,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &922062545
 Rigidbody2D:
   serializedVersion: 4
@@ -33579,8 +33470,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &924485781
 Rigidbody2D:
   serializedVersion: 4
@@ -33705,8 +33595,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &927593611
 Rigidbody2D:
   serializedVersion: 4
@@ -33887,8 +33776,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &934343577
 Rigidbody2D:
   serializedVersion: 4
@@ -34013,8 +33901,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &938957390
 Rigidbody2D:
   serializedVersion: 4
@@ -34139,8 +34026,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &940657558
 Rigidbody2D:
   serializedVersion: 4
@@ -34265,8 +34151,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &945807979
 Rigidbody2D:
   serializedVersion: 4
@@ -34391,8 +34276,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &948830674
 Rigidbody2D:
   serializedVersion: 4
@@ -34517,8 +34401,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &949644049
 Rigidbody2D:
   serializedVersion: 4
@@ -34643,8 +34526,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &950049118
 Rigidbody2D:
   serializedVersion: 4
@@ -34774,8 +34656,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &957101904
 Rigidbody2D:
   serializedVersion: 4
@@ -34900,8 +34781,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &958356556
 Rigidbody2D:
   serializedVersion: 4
@@ -35026,8 +34906,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &958938707
 Rigidbody2D:
   serializedVersion: 4
@@ -35152,8 +35031,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &961321409
 Rigidbody2D:
   serializedVersion: 4
@@ -35278,8 +35156,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &961463363
 Rigidbody2D:
   serializedVersion: 4
@@ -35404,8 +35281,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &964460290
 Rigidbody2D:
   serializedVersion: 4
@@ -35530,8 +35406,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &965398241
 Rigidbody2D:
   serializedVersion: 4
@@ -35656,8 +35531,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &965455425
 Rigidbody2D:
   serializedVersion: 4
@@ -35782,8 +35656,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &970553144
 Rigidbody2D:
   serializedVersion: 4
@@ -35865,50 +35738,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &972684918
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 972684919}
-  - component: {fileID: 972684920}
-  m_Layer: 10
-  m_Name: Collider2
-  m_TagString: collider2
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &972684919
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 972684918}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.63, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 707698018}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!58 &972684920
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 972684918}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  serializedVersion: 2
-  m_Radius: 1.6740997
 --- !u!1 &974296825
 GameObject:
   m_ObjectHideFlags: 0
@@ -35952,8 +35781,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &974296828
 Rigidbody2D:
   serializedVersion: 4
@@ -36078,8 +35906,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &978543575
 Rigidbody2D:
   serializedVersion: 4
@@ -36204,8 +36031,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &979336827
 Rigidbody2D:
   serializedVersion: 4
@@ -36330,8 +36156,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &979695266
 Rigidbody2D:
   serializedVersion: 4
@@ -36413,11 +36238,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &980453592 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1947436130641884, guid: bc757f729fdbb3c49b8eeb84c978760b,
-    type: 2}
-  m_PrefabInternal: {fileID: 1900651277}
 --- !u!1 &983472105
 GameObject:
   m_ObjectHideFlags: 0
@@ -36461,8 +36281,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &983472108
 Rigidbody2D:
   serializedVersion: 4
@@ -36587,8 +36406,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &984844925
 Rigidbody2D:
   serializedVersion: 4
@@ -36713,8 +36531,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &985152633
 Rigidbody2D:
   serializedVersion: 4
@@ -36839,8 +36656,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &985578391
 Rigidbody2D:
   serializedVersion: 4
@@ -36965,8 +36781,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &988830204
 Rigidbody2D:
   serializedVersion: 4
@@ -37091,8 +36906,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &988986358
 Rigidbody2D:
   serializedVersion: 4
@@ -37217,8 +37031,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &991129089
 Rigidbody2D:
   serializedVersion: 4
@@ -37343,8 +37156,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &993711156
 Rigidbody2D:
   serializedVersion: 4
@@ -37469,8 +37281,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &993775480
 Rigidbody2D:
   serializedVersion: 4
@@ -37601,8 +37412,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1005073742
 Rigidbody2D:
   serializedVersion: 4
@@ -37727,8 +37537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1005771369
 Rigidbody2D:
   serializedVersion: 4
@@ -37853,8 +37662,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1009086667
 Rigidbody2D:
   serializedVersion: 4
@@ -37979,8 +37787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1009601654
 Rigidbody2D:
   serializedVersion: 4
@@ -38105,8 +37912,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1012141487
 Rigidbody2D:
   serializedVersion: 4
@@ -38231,8 +38037,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1012796558
 Rigidbody2D:
   serializedVersion: 4
@@ -38357,8 +38162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1018310114
 Rigidbody2D:
   serializedVersion: 4
@@ -38483,8 +38287,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1021503586
 Rigidbody2D:
   serializedVersion: 4
@@ -38609,8 +38412,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1035490422
 Rigidbody2D:
   serializedVersion: 4
@@ -38735,8 +38537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1040540029
 Rigidbody2D:
   serializedVersion: 4
@@ -38861,8 +38662,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1041570808
 Rigidbody2D:
   serializedVersion: 4
@@ -38987,8 +38787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1050938587
 Rigidbody2D:
   serializedVersion: 4
@@ -39113,8 +38912,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1057708096
 Rigidbody2D:
   serializedVersion: 4
@@ -39239,8 +39037,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1058435948
 Rigidbody2D:
   serializedVersion: 4
@@ -39365,8 +39162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1060350379
 Rigidbody2D:
   serializedVersion: 4
@@ -39491,8 +39287,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1068760073
 Rigidbody2D:
   serializedVersion: 4
@@ -39617,8 +39412,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1074603230
 Rigidbody2D:
   serializedVersion: 4
@@ -39743,8 +39537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1100477108
 Rigidbody2D:
   serializedVersion: 4
@@ -39869,8 +39662,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1103843927
 Rigidbody2D:
   serializedVersion: 4
@@ -39995,8 +39787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1106345339
 Rigidbody2D:
   serializedVersion: 4
@@ -40121,8 +39912,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1108444982
 Rigidbody2D:
   serializedVersion: 4
@@ -40247,8 +40037,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1109804148
 Rigidbody2D:
   serializedVersion: 4
@@ -40373,8 +40162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1109836819
 Rigidbody2D:
   serializedVersion: 4
@@ -40499,8 +40287,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1110065742
 Rigidbody2D:
   serializedVersion: 4
@@ -40625,8 +40412,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1115258142
 Rigidbody2D:
   serializedVersion: 4
@@ -40751,8 +40537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1119532611
 Rigidbody2D:
   serializedVersion: 4
@@ -40877,8 +40662,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1128625242
 Rigidbody2D:
   serializedVersion: 4
@@ -41003,8 +40787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1137636979
 Rigidbody2D:
   serializedVersion: 4
@@ -41129,8 +40912,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1139564075
 Rigidbody2D:
   serializedVersion: 4
@@ -41255,8 +41037,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1142338313
 Rigidbody2D:
   serializedVersion: 4
@@ -41381,8 +41162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1146149753
 Rigidbody2D:
   serializedVersion: 4
@@ -41507,8 +41287,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1148903359
 Rigidbody2D:
   serializedVersion: 4
@@ -41633,8 +41412,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1158428552
 Rigidbody2D:
   serializedVersion: 4
@@ -41759,8 +41537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1161321360
 Rigidbody2D:
   serializedVersion: 4
@@ -41842,31 +41619,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1161374119 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1359227452929448, guid: 8eaa64fefd17ab04ea6ea7807d8c009e,
-    type: 2}
-  m_PrefabInternal: {fileID: 226330876}
---- !u!114 &1161374124
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1161374119}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3593c786ce33b614cae4e3fe2c8b2db2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  keyRed: 97
-  keyBlue: 115
-  Createmode: 0
-  NR: {fileID: 1052577944330342, guid: f1f26c42fd91320479a6f83753bbbe2d, type: 2}
-  NB: {fileID: 1119093504990822, guid: dd2a82933c5bb3046a6c39dd2b16eb32, type: 2}
-  NP: {fileID: 1220500033416330, guid: fa10a2667867b254fb0e8e87307cbe22, type: 2}
-  numbjoy: 1
-  inflictdamage: {fileID: 340494809}
-  slash: {fileID: 182831754}
 --- !u!1 &1162797428
 GameObject:
   m_ObjectHideFlags: 0
@@ -41910,8 +41662,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1162797431
 Rigidbody2D:
   serializedVersion: 4
@@ -42036,8 +41787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1169028864
 Rigidbody2D:
   serializedVersion: 4
@@ -42162,8 +41912,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1170234008
 Rigidbody2D:
   serializedVersion: 4
@@ -42288,8 +42037,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1170365077
 Rigidbody2D:
   serializedVersion: 4
@@ -42414,8 +42162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1171517845
 Rigidbody2D:
   serializedVersion: 4
@@ -42540,8 +42287,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1172527280
 Rigidbody2D:
   serializedVersion: 4
@@ -42666,8 +42412,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1175087689
 Rigidbody2D:
   serializedVersion: 4
@@ -42792,8 +42537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1193291576
 Rigidbody2D:
   serializedVersion: 4
@@ -42918,8 +42662,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1194583014
 Rigidbody2D:
   serializedVersion: 4
@@ -43044,8 +42787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1203038342
 Rigidbody2D:
   serializedVersion: 4
@@ -43170,8 +42912,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1207975207
 Rigidbody2D:
   serializedVersion: 4
@@ -43296,8 +43037,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1212508184
 Rigidbody2D:
   serializedVersion: 4
@@ -43422,8 +43162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1217189111
 Rigidbody2D:
   serializedVersion: 4
@@ -43548,8 +43287,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1217607669
 Rigidbody2D:
   serializedVersion: 4
@@ -43674,8 +43412,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1219930589
 Rigidbody2D:
   serializedVersion: 4
@@ -43800,8 +43537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1222168117
 Rigidbody2D:
   serializedVersion: 4
@@ -43926,8 +43662,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1223539766
 Rigidbody2D:
   serializedVersion: 4
@@ -44052,8 +43787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1224550208
 Rigidbody2D:
   serializedVersion: 4
@@ -44178,8 +43912,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1225895900
 Rigidbody2D:
   serializedVersion: 4
@@ -44304,8 +44037,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1228380290
 Rigidbody2D:
   serializedVersion: 4
@@ -44430,8 +44162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1231992750
 Rigidbody2D:
   serializedVersion: 4
@@ -44556,8 +44287,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1232161995
 Rigidbody2D:
   serializedVersion: 4
@@ -44682,8 +44412,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1233223537
 Rigidbody2D:
   serializedVersion: 4
@@ -44808,8 +44537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1235681521
 Rigidbody2D:
   serializedVersion: 4
@@ -44934,8 +44662,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1236175331
 Rigidbody2D:
   serializedVersion: 4
@@ -45060,8 +44787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1241350829
 Rigidbody2D:
   serializedVersion: 4
@@ -45186,8 +44912,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1245880492
 Rigidbody2D:
   serializedVersion: 4
@@ -45312,8 +45037,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1246752847
 Rigidbody2D:
   serializedVersion: 4
@@ -45438,8 +45162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1249979509
 Rigidbody2D:
   serializedVersion: 4
@@ -45564,8 +45287,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1258125856
 Rigidbody2D:
   serializedVersion: 4
@@ -45690,8 +45412,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1264754418
 Rigidbody2D:
   serializedVersion: 4
@@ -45816,8 +45537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1266524680
 Rigidbody2D:
   serializedVersion: 4
@@ -45942,8 +45662,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1269077221
 Rigidbody2D:
   serializedVersion: 4
@@ -46068,8 +45787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1277540608
 Rigidbody2D:
   serializedVersion: 4
@@ -46194,8 +45912,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1280137423
 Rigidbody2D:
   serializedVersion: 4
@@ -46320,8 +46037,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1281493188
 Rigidbody2D:
   serializedVersion: 4
@@ -46534,8 +46250,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1285649516
 Rigidbody2D:
   serializedVersion: 4
@@ -46660,8 +46375,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1287879292
 Rigidbody2D:
   serializedVersion: 4
@@ -46786,8 +46500,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1294202710
 Rigidbody2D:
   serializedVersion: 4
@@ -46912,8 +46625,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1295696789
 Rigidbody2D:
   serializedVersion: 4
@@ -47038,8 +46750,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1298640220
 Rigidbody2D:
   serializedVersion: 4
@@ -47164,8 +46875,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1298905344
 Rigidbody2D:
   serializedVersion: 4
@@ -47290,8 +47000,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1300708263
 Rigidbody2D:
   serializedVersion: 4
@@ -47416,8 +47125,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1302951569
 Rigidbody2D:
   serializedVersion: 4
@@ -47542,8 +47250,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1303848969
 Rigidbody2D:
   serializedVersion: 4
@@ -47668,8 +47375,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1304684498
 Rigidbody2D:
   serializedVersion: 4
@@ -47869,8 +47575,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1307456602
 Rigidbody2D:
   serializedVersion: 4
@@ -47995,8 +47700,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1310940246
 Rigidbody2D:
   serializedVersion: 4
@@ -48121,8 +47825,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1313788819
 Rigidbody2D:
   serializedVersion: 4
@@ -48289,8 +47992,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1317581288
 Rigidbody2D:
   serializedVersion: 4
@@ -48415,8 +48117,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1319594505
 Rigidbody2D:
   serializedVersion: 4
@@ -48541,8 +48242,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1319953868
 Rigidbody2D:
   serializedVersion: 4
@@ -48772,8 +48472,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1334759858
 Rigidbody2D:
   serializedVersion: 4
@@ -48898,8 +48597,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1341907518
 Rigidbody2D:
   serializedVersion: 4
@@ -49024,8 +48722,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1344968001
 Rigidbody2D:
   serializedVersion: 4
@@ -49150,8 +48847,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1347782389
 Rigidbody2D:
   serializedVersion: 4
@@ -49276,8 +48972,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1348902680
 Rigidbody2D:
   serializedVersion: 4
@@ -49402,8 +49097,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1351320662
 Rigidbody2D:
   serializedVersion: 4
@@ -49701,8 +49395,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1353378434
 Rigidbody2D:
   serializedVersion: 4
@@ -49827,8 +49520,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1361024411
 Rigidbody2D:
   serializedVersion: 4
@@ -49953,8 +49645,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1361100989
 Rigidbody2D:
   serializedVersion: 4
@@ -50079,8 +49770,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1362327500
 Rigidbody2D:
   serializedVersion: 4
@@ -50205,8 +49895,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1368774309
 Rigidbody2D:
   serializedVersion: 4
@@ -50331,8 +50020,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1371887245
 Rigidbody2D:
   serializedVersion: 4
@@ -50457,8 +50145,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1373733542
 Rigidbody2D:
   serializedVersion: 4
@@ -50583,8 +50270,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1378851028
 Rigidbody2D:
   serializedVersion: 4
@@ -50709,8 +50395,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1379744041
 Rigidbody2D:
   serializedVersion: 4
@@ -50835,8 +50520,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1383032354
 Rigidbody2D:
   serializedVersion: 4
@@ -50961,8 +50645,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1386206222
 Rigidbody2D:
   serializedVersion: 4
@@ -51087,8 +50770,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1397638704
 Rigidbody2D:
   serializedVersion: 4
@@ -51213,8 +50895,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1397835538
 Rigidbody2D:
   serializedVersion: 4
@@ -51339,8 +51020,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1400237676
 Rigidbody2D:
   serializedVersion: 4
@@ -51465,8 +51145,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1401116979
 Rigidbody2D:
   serializedVersion: 4
@@ -51591,8 +51270,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1404710236
 Rigidbody2D:
   serializedVersion: 4
@@ -51717,8 +51395,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1410700339
 Rigidbody2D:
   serializedVersion: 4
@@ -51843,8 +51520,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1415396130
 Rigidbody2D:
   serializedVersion: 4
@@ -51969,8 +51645,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1418703066
 Rigidbody2D:
   serializedVersion: 4
@@ -52095,8 +51770,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1419379347
 Rigidbody2D:
   serializedVersion: 4
@@ -52221,8 +51895,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1421399627
 Rigidbody2D:
   serializedVersion: 4
@@ -52347,8 +52020,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1429186172
 Rigidbody2D:
   serializedVersion: 4
@@ -52473,8 +52145,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1431499061
 Rigidbody2D:
   serializedVersion: 4
@@ -52599,8 +52270,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1432207058
 Rigidbody2D:
   serializedVersion: 4
@@ -52725,8 +52395,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1433966573
 Rigidbody2D:
   serializedVersion: 4
@@ -53080,8 +52749,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1439656067
 Rigidbody2D:
   serializedVersion: 4
@@ -53206,8 +52874,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1440908730
 Rigidbody2D:
   serializedVersion: 4
@@ -53332,8 +52999,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1442539914
 Rigidbody2D:
   serializedVersion: 4
@@ -53415,6 +53081,106 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1444314219
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 471212456}
+    m_Modifications:
+    - target: {fileID: 224255479369422546, guid: 7715525273948a14fb9a2b2854795153,
+        type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224255479369422546, guid: 7715525273948a14fb9a2b2854795153,
+        type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224255479369422546, guid: 7715525273948a14fb9a2b2854795153,
+        type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224255479369422546, guid: 7715525273948a14fb9a2b2854795153,
+        type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224255479369422546, guid: 7715525273948a14fb9a2b2854795153,
+        type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224255479369422546, guid: 7715525273948a14fb9a2b2854795153,
+        type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224255479369422546, guid: 7715525273948a14fb9a2b2854795153,
+        type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224255479369422546, guid: 7715525273948a14fb9a2b2854795153,
+        type: 2}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 224255479369422546, guid: 7715525273948a14fb9a2b2854795153,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: 380.19995
+      objectReference: {fileID: 0}
+    - target: {fileID: 224255479369422546, guid: 7715525273948a14fb9a2b2854795153,
+        type: 2}
+      propertyPath: m_AnchoredPosition.y
+      value: 176.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224255479369422546, guid: 7715525273948a14fb9a2b2854795153,
+        type: 2}
+      propertyPath: m_SizeDelta.x
+      value: 160
+      objectReference: {fileID: 0}
+    - target: {fileID: 224255479369422546, guid: 7715525273948a14fb9a2b2854795153,
+        type: 2}
+      propertyPath: m_SizeDelta.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 224255479369422546, guid: 7715525273948a14fb9a2b2854795153,
+        type: 2}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224255479369422546, guid: 7715525273948a14fb9a2b2854795153,
+        type: 2}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224255479369422546, guid: 7715525273948a14fb9a2b2854795153,
+        type: 2}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224255479369422546, guid: 7715525273948a14fb9a2b2854795153,
+        type: 2}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224255479369422546, guid: 7715525273948a14fb9a2b2854795153,
+        type: 2}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224255479369422546, guid: 7715525273948a14fb9a2b2854795153,
+        type: 2}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7715525273948a14fb9a2b2854795153, type: 2}
+  m_IsPrefabAsset: 0
 --- !u!1 &1448996325
 GameObject:
   m_ObjectHideFlags: 0
@@ -53458,8 +53224,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1448996328
 Rigidbody2D:
   serializedVersion: 4
@@ -53584,8 +53349,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1452668876
 Rigidbody2D:
   serializedVersion: 4
@@ -53710,8 +53474,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1453433214
 Rigidbody2D:
   serializedVersion: 4
@@ -53836,8 +53599,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1456383272
 Rigidbody2D:
   serializedVersion: 4
@@ -53962,8 +53724,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1462038423
 Rigidbody2D:
   serializedVersion: 4
@@ -54088,8 +53849,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1465553311
 Rigidbody2D:
   serializedVersion: 4
@@ -54214,8 +53974,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1466101467
 Rigidbody2D:
   serializedVersion: 4
@@ -54340,8 +54099,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1467497823
 Rigidbody2D:
   serializedVersion: 4
@@ -54466,8 +54224,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1479217158
 Rigidbody2D:
   serializedVersion: 4
@@ -54592,8 +54349,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1479232028
 Rigidbody2D:
   serializedVersion: 4
@@ -54718,8 +54474,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1479236413
 Rigidbody2D:
   serializedVersion: 4
@@ -54844,8 +54599,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1479545811
 Rigidbody2D:
   serializedVersion: 4
@@ -54970,8 +54724,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1487278899
 Rigidbody2D:
   serializedVersion: 4
@@ -55096,8 +54849,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1490589057
 Rigidbody2D:
   serializedVersion: 4
@@ -55222,8 +54974,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1497264287
 Rigidbody2D:
   serializedVersion: 4
@@ -55348,8 +55099,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1497747235
 Rigidbody2D:
   serializedVersion: 4
@@ -55474,8 +55224,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1503549206
 Rigidbody2D:
   serializedVersion: 4
@@ -55600,8 +55349,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1507370669
 Rigidbody2D:
   serializedVersion: 4
@@ -55731,8 +55479,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1516638413
 Rigidbody2D:
   serializedVersion: 4
@@ -55857,8 +55604,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1519457502
 Rigidbody2D:
   serializedVersion: 4
@@ -55983,8 +55729,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1521235062
 Rigidbody2D:
   serializedVersion: 4
@@ -56109,8 +55854,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1525836357
 Rigidbody2D:
   serializedVersion: 4
@@ -56235,8 +55979,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1534397687
 Rigidbody2D:
   serializedVersion: 4
@@ -56361,8 +56104,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1536602055
 Rigidbody2D:
   serializedVersion: 4
@@ -56487,8 +56229,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1537737415
 Rigidbody2D:
   serializedVersion: 4
@@ -56613,8 +56354,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1543260050
 Rigidbody2D:
   serializedVersion: 4
@@ -56836,8 +56576,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1552836951
 Rigidbody2D:
   serializedVersion: 4
@@ -56978,8 +56717,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1558647163
 Rigidbody2D:
   serializedVersion: 4
@@ -57104,8 +56842,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1558861938
 Rigidbody2D:
   serializedVersion: 4
@@ -57230,8 +56967,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1564391282
 Rigidbody2D:
   serializedVersion: 4
@@ -57356,8 +57092,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1568127832
 Rigidbody2D:
   serializedVersion: 4
@@ -57482,8 +57217,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1572198590
 Rigidbody2D:
   serializedVersion: 4
@@ -57608,8 +57342,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1576786513
 Rigidbody2D:
   serializedVersion: 4
@@ -57734,8 +57467,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1579658502
 Rigidbody2D:
   serializedVersion: 4
@@ -57860,8 +57592,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1589584129
 Rigidbody2D:
   serializedVersion: 4
@@ -57986,8 +57717,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1592436640
 Rigidbody2D:
   serializedVersion: 4
@@ -58112,8 +57842,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1596224154
 Rigidbody2D:
   serializedVersion: 4
@@ -58238,8 +57967,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1597399129
 Rigidbody2D:
   serializedVersion: 4
@@ -58364,8 +58092,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1605308195
 Rigidbody2D:
   serializedVersion: 4
@@ -58490,8 +58217,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1606268610
 Rigidbody2D:
   serializedVersion: 4
@@ -58616,8 +58342,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1611186096
 Rigidbody2D:
   serializedVersion: 4
@@ -58742,8 +58467,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1618672850
 Rigidbody2D:
   serializedVersion: 4
@@ -58868,8 +58592,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1621201475
 Rigidbody2D:
   serializedVersion: 4
@@ -58994,8 +58717,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1624156329
 Rigidbody2D:
   serializedVersion: 4
@@ -59120,8 +58842,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1627205876
 Rigidbody2D:
   serializedVersion: 4
@@ -59246,8 +58967,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1628855743
 Rigidbody2D:
   serializedVersion: 4
@@ -59372,8 +59092,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1631998449
 Rigidbody2D:
   serializedVersion: 4
@@ -59498,8 +59217,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1632387197
 Rigidbody2D:
   serializedVersion: 4
@@ -59624,8 +59342,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1644305415
 Rigidbody2D:
   serializedVersion: 4
@@ -59750,8 +59467,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1649915662
 Rigidbody2D:
   serializedVersion: 4
@@ -59876,8 +59592,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1655695001
 Rigidbody2D:
   serializedVersion: 4
@@ -60002,8 +59717,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1670814831
 Rigidbody2D:
   serializedVersion: 4
@@ -60128,8 +59842,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1671593213
 Rigidbody2D:
   serializedVersion: 4
@@ -60254,8 +59967,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1672537957
 Rigidbody2D:
   serializedVersion: 4
@@ -60380,8 +60092,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1673241255
 Rigidbody2D:
   serializedVersion: 4
@@ -60506,8 +60217,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1686650344
 Rigidbody2D:
   serializedVersion: 4
@@ -60632,8 +60342,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1688006076
 Rigidbody2D:
   serializedVersion: 4
@@ -60758,8 +60467,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1688111991
 Rigidbody2D:
   serializedVersion: 4
@@ -60884,8 +60592,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1688559341
 Rigidbody2D:
   serializedVersion: 4
@@ -61010,8 +60717,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1695646935
 Rigidbody2D:
   serializedVersion: 4
@@ -61136,8 +60842,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1695744106
 Rigidbody2D:
   serializedVersion: 4
@@ -61262,8 +60967,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1695838890
 Rigidbody2D:
   serializedVersion: 4
@@ -61388,8 +61092,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1703330745
 Rigidbody2D:
   serializedVersion: 4
@@ -61514,8 +61217,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1709748926
 Rigidbody2D:
   serializedVersion: 4
@@ -61640,8 +61342,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1720020599
 Rigidbody2D:
   serializedVersion: 4
@@ -61766,8 +61467,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1720952878
 Rigidbody2D:
   serializedVersion: 4
@@ -61892,8 +61592,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1722351046
 Rigidbody2D:
   serializedVersion: 4
@@ -61975,6 +61674,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!4 &1725973643 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4610060928371934, guid: d61f5897791943741b8a74c44f4c6357,
+    type: 2}
+  m_PrefabInternal: {fileID: 226330876}
 --- !u!1 &1726264739
 GameObject:
   m_ObjectHideFlags: 0
@@ -62018,8 +61722,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1726264742
 Rigidbody2D:
   serializedVersion: 4
@@ -62186,8 +61889,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1730852149
 Rigidbody2D:
   serializedVersion: 4
@@ -62317,8 +62019,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1749082061
 Rigidbody2D:
   serializedVersion: 4
@@ -62443,8 +62144,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1755460945
 Rigidbody2D:
   serializedVersion: 4
@@ -62569,8 +62269,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1757193264
 Rigidbody2D:
   serializedVersion: 4
@@ -62695,8 +62394,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1759857146
 Rigidbody2D:
   serializedVersion: 4
@@ -62821,8 +62519,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1760217793
 Rigidbody2D:
   serializedVersion: 4
@@ -62947,8 +62644,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1767929027
 Rigidbody2D:
   serializedVersion: 4
@@ -63073,8 +62769,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1768504057
 Rigidbody2D:
   serializedVersion: 4
@@ -63199,8 +62894,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1780190602
 Rigidbody2D:
   serializedVersion: 4
@@ -63325,8 +63019,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1780296353
 Rigidbody2D:
   serializedVersion: 4
@@ -63451,8 +63144,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1781649425
 Rigidbody2D:
   serializedVersion: 4
@@ -63577,8 +63269,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1787203897
 Rigidbody2D:
   serializedVersion: 4
@@ -63827,8 +63518,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1797761056
 Rigidbody2D:
   serializedVersion: 4
@@ -63953,8 +63643,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1799459223
 Rigidbody2D:
   serializedVersion: 4
@@ -64173,8 +63862,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1810959169
 Rigidbody2D:
   serializedVersion: 4
@@ -64299,8 +63987,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1813883853
 Rigidbody2D:
   serializedVersion: 4
@@ -64425,8 +64112,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1814579967
 Rigidbody2D:
   serializedVersion: 4
@@ -64551,8 +64237,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1818859826
 Rigidbody2D:
   serializedVersion: 4
@@ -64677,8 +64362,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1819291261
 Rigidbody2D:
   serializedVersion: 4
@@ -64803,8 +64487,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1832398296
 Rigidbody2D:
   serializedVersion: 4
@@ -64929,8 +64612,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1836133628
 Rigidbody2D:
   serializedVersion: 4
@@ -65055,8 +64737,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1843369274
 Rigidbody2D:
   serializedVersion: 4
@@ -65181,8 +64862,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1846496344
 Rigidbody2D:
   serializedVersion: 4
@@ -65307,8 +64987,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1846826821
 Rigidbody2D:
   serializedVersion: 4
@@ -65433,8 +65112,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1852363500
 Rigidbody2D:
   serializedVersion: 4
@@ -65559,8 +65237,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1855859013
 Rigidbody2D:
   serializedVersion: 4
@@ -65685,8 +65362,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1857287703
 Rigidbody2D:
   serializedVersion: 4
@@ -65811,8 +65487,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1857510800
 Rigidbody2D:
   serializedVersion: 4
@@ -65937,8 +65612,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1862697900
 Rigidbody2D:
   serializedVersion: 4
@@ -66063,8 +65737,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1866649961
 Rigidbody2D:
   serializedVersion: 4
@@ -66189,8 +65862,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1868462298
 Rigidbody2D:
   serializedVersion: 4
@@ -66315,8 +65987,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1871082908
 Rigidbody2D:
   serializedVersion: 4
@@ -66441,8 +66112,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1872022331
 Rigidbody2D:
   serializedVersion: 4
@@ -66567,8 +66237,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1877272999
 Rigidbody2D:
   serializedVersion: 4
@@ -66693,8 +66362,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1878422431
 Rigidbody2D:
   serializedVersion: 4
@@ -66819,8 +66487,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1886084690
 Rigidbody2D:
   serializedVersion: 4
@@ -66945,8 +66612,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1888254461
 Rigidbody2D:
   serializedVersion: 4
@@ -67071,8 +66737,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1888473664
 Rigidbody2D:
   serializedVersion: 4
@@ -67249,8 +66914,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1893475845
 Rigidbody2D:
   serializedVersion: 4
@@ -67414,126 +67078,72 @@ Prefab:
   m_Modification:
     m_TransformParent: {fileID: 530514300}
     m_Modifications:
-    - target: {fileID: 114365791225075776, guid: bc757f729fdbb3c49b8eeb84c978760b,
-        type: 2}
-      propertyPath: Colliders.Array.size
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4748244823050290, guid: bc757f729fdbb3c49b8eeb84c978760b, type: 2}
+    - target: {fileID: 4430804194752014, guid: bac574aef74e13d4e90616c19b5830b5, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 9.6
+      value: 9.33
       objectReference: {fileID: 0}
-    - target: {fileID: 4748244823050290, guid: bc757f729fdbb3c49b8eeb84c978760b, type: 2}
+    - target: {fileID: 4430804194752014, guid: bac574aef74e13d4e90616c19b5830b5, type: 2}
       propertyPath: m_LocalPosition.y
       value: -21.6
       objectReference: {fileID: 0}
-    - target: {fileID: 4748244823050290, guid: bc757f729fdbb3c49b8eeb84c978760b, type: 2}
+    - target: {fileID: 4430804194752014, guid: bac574aef74e13d4e90616c19b5830b5, type: 2}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4748244823050290, guid: bc757f729fdbb3c49b8eeb84c978760b, type: 2}
+    - target: {fileID: 4430804194752014, guid: bac574aef74e13d4e90616c19b5830b5, type: 2}
       propertyPath: m_LocalRotation.x
       value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 4748244823050290, guid: bc757f729fdbb3c49b8eeb84c978760b, type: 2}
+    - target: {fileID: 4430804194752014, guid: bac574aef74e13d4e90616c19b5830b5, type: 2}
       propertyPath: m_LocalRotation.y
       value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 4748244823050290, guid: bc757f729fdbb3c49b8eeb84c978760b, type: 2}
+    - target: {fileID: 4430804194752014, guid: bac574aef74e13d4e90616c19b5830b5, type: 2}
       propertyPath: m_LocalRotation.z
       value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 4748244823050290, guid: bc757f729fdbb3c49b8eeb84c978760b, type: 2}
+    - target: {fileID: 4430804194752014, guid: bac574aef74e13d4e90616c19b5830b5, type: 2}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4748244823050290, guid: bc757f729fdbb3c49b8eeb84c978760b, type: 2}
+    - target: {fileID: 4430804194752014, guid: bac574aef74e13d4e90616c19b5830b5, type: 2}
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 114365791225075776, guid: bc757f729fdbb3c49b8eeb84c978760b,
-        type: 2}
-      propertyPath: Createmode
-      value: 0
+    - target: {fileID: 1780052315539510, guid: bac574aef74e13d4e90616c19b5830b5, type: 2}
+      propertyPath: m_Name
+      value: Activator
       objectReference: {fileID: 0}
-    - target: {fileID: 114365791225075776, guid: bc757f729fdbb3c49b8eeb84c978760b,
-        type: 2}
-      propertyPath: NumbJoypad
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114365791225075776, guid: bc757f729fdbb3c49b8eeb84c978760b,
-        type: 2}
-      propertyPath: keyRed
-      value: 107
-      objectReference: {fileID: 0}
-    - target: {fileID: 114365791225075776, guid: bc757f729fdbb3c49b8eeb84c978760b,
-        type: 2}
-      propertyPath: keyBlue
-      value: 108
-      objectReference: {fileID: 0}
-    - target: {fileID: 114365791225075776, guid: bc757f729fdbb3c49b8eeb84c978760b,
+    - target: {fileID: 114319261376048166, guid: bac574aef74e13d4e90616c19b5830b5,
         type: 2}
       propertyPath: inflictdamage
       value: 
       objectReference: {fileID: 340494809}
-    - target: {fileID: 114365791225075776, guid: bc757f729fdbb3c49b8eeb84c978760b,
+    - target: {fileID: 114319261376048166, guid: bac574aef74e13d4e90616c19b5830b5,
         type: 2}
       propertyPath: slash
       value: 
       objectReference: {fileID: 182831754}
-    - target: {fileID: 58253794483830582, guid: bc757f729fdbb3c49b8eeb84c978760b,
-        type: 2}
-      propertyPath: m_Radius
-      value: 0.5955128
-      objectReference: {fileID: 0}
-    - target: {fileID: 114365791225075776, guid: bc757f729fdbb3c49b8eeb84c978760b,
-        type: 2}
-      propertyPath: Colliders.Array.data[0]
-      value: 
-      objectReference: {fileID: 980453592}
-    - target: {fileID: 114365791225075776, guid: bc757f729fdbb3c49b8eeb84c978760b,
-        type: 2}
-      propertyPath: Colliders.Array.data[1]
-      value: 
-      objectReference: {fileID: 972684918}
-    - target: {fileID: 114365791225075776, guid: bc757f729fdbb3c49b8eeb84c978760b,
-        type: 2}
-      propertyPath: Colliders.Array.data[2]
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 58253794483830582, guid: bc757f729fdbb3c49b8eeb84c978760b,
-        type: 2}
-      propertyPath: m_Offset.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 212076148337742722, guid: bc757f729fdbb3c49b8eeb84c978760b,
-        type: 2}
-      propertyPath: m_SortingOrder
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 1947436130641884, guid: bc757f729fdbb3c49b8eeb84c978760b, type: 2}
-      propertyPath: m_Layer
-      value: 12
-      objectReference: {fileID: 0}
-    - target: {fileID: 1947436130641884, guid: bc757f729fdbb3c49b8eeb84c978760b, type: 2}
+    - target: {fileID: 1820597501853270, guid: bac574aef74e13d4e90616c19b5830b5, type: 2}
       propertyPath: m_TagString
-      value: collider1
+      value: Untagged
       objectReference: {fileID: 0}
-    - target: {fileID: 4748244823050290, guid: bc757f729fdbb3c49b8eeb84c978760b, type: 2}
-      propertyPath: m_LocalScale.z
+    - target: {fileID: 50702489234058320, guid: bac574aef74e13d4e90616c19b5830b5,
+        type: 2}
+      propertyPath: m_SleepingMode
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 50255132185076052, guid: bc757f729fdbb3c49b8eeb84c978760b,
+    - target: {fileID: 114319261376048166, guid: bac574aef74e13d4e90616c19b5830b5,
         type: 2}
-      propertyPath: m_CollisionDetection
-      value: 1
-      objectReference: {fileID: 0}
+      propertyPath: score1
+      value: 
+      objectReference: {fileID: 182560272}
     m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: bc757f729fdbb3c49b8eeb84c978760b, type: 2}
+  m_SourcePrefab: {fileID: 100100000, guid: bac574aef74e13d4e90616c19b5830b5, type: 2}
   m_IsPrefabAsset: 0
 --- !u!114 &1900651278 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 114365791225075776, guid: bc757f729fdbb3c49b8eeb84c978760b,
+  m_CorrespondingSourceObject: {fileID: 114319261376048166, guid: bac574aef74e13d4e90616c19b5830b5,
     type: 2}
   m_PrefabInternal: {fileID: 1900651277}
   m_Script: {fileID: 11500000, guid: 832417a70607fa94781e8fc6182ff1d7, type: 3}
@@ -67580,8 +67190,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1904932672
 Rigidbody2D:
   serializedVersion: 4
@@ -67706,8 +67315,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1907309350
 Rigidbody2D:
   serializedVersion: 4
@@ -67832,8 +67440,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1910573010
 Rigidbody2D:
   serializedVersion: 4
@@ -67958,8 +67565,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1912307887
 Rigidbody2D:
   serializedVersion: 4
@@ -68115,8 +67721,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1921420365
 Rigidbody2D:
   serializedVersion: 4
@@ -68241,8 +67846,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1926323259
 Rigidbody2D:
   serializedVersion: 4
@@ -68367,8 +67971,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1927198804
 Rigidbody2D:
   serializedVersion: 4
@@ -68493,8 +68096,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1928062574
 Rigidbody2D:
   serializedVersion: 4
@@ -68619,8 +68221,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1933798494
 Rigidbody2D:
   serializedVersion: 4
@@ -68745,8 +68346,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1935686196
 Rigidbody2D:
   serializedVersion: 4
@@ -68871,8 +68471,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1937485522
 Rigidbody2D:
   serializedVersion: 4
@@ -68997,8 +68596,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1943774387
 Rigidbody2D:
   serializedVersion: 4
@@ -69123,8 +68721,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1944407379
 Rigidbody2D:
   serializedVersion: 4
@@ -69249,8 +68846,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1945735972
 Rigidbody2D:
   serializedVersion: 4
@@ -69375,8 +68971,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1946661644
 Rigidbody2D:
   serializedVersion: 4
@@ -69501,8 +69096,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1949725164
 Rigidbody2D:
   serializedVersion: 4
@@ -69627,8 +69221,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1953131282
 Rigidbody2D:
   serializedVersion: 4
@@ -69753,8 +69346,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1954627831
 Rigidbody2D:
   serializedVersion: 4
@@ -69879,8 +69471,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1962349390
 Rigidbody2D:
   serializedVersion: 4
@@ -70016,6 +69607,10 @@ Prefab:
       propertyPath: m_Offset.x
       value: 3.31
       objectReference: {fileID: 0}
+    - target: {fileID: 1091881357522578, guid: b6a741a16396c304f9dbcc5d90a0dc0a, type: 2}
+      propertyPath: m_TagString
+      value: NoteDestroyer
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b6a741a16396c304f9dbcc5d90a0dc0a, type: 2}
   m_IsPrefabAsset: 0
@@ -70062,8 +69657,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1972192044
 Rigidbody2D:
   serializedVersion: 4
@@ -70188,8 +69782,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1973854133
 Rigidbody2D:
   serializedVersion: 4
@@ -70314,8 +69907,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1974233383
 Rigidbody2D:
   serializedVersion: 4
@@ -70397,6 +69989,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1975052422 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1632688560248106, guid: 7715525273948a14fb9a2b2854795153,
+    type: 2}
+  m_PrefabInternal: {fileID: 1444314219}
 --- !u!1 &1975161522
 GameObject:
   m_ObjectHideFlags: 0
@@ -70440,8 +70037,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1975161525
 Rigidbody2D:
   serializedVersion: 4
@@ -70566,8 +70162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1976015486
 Rigidbody2D:
   serializedVersion: 4
@@ -70692,8 +70287,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1977138793
 Rigidbody2D:
   serializedVersion: 4
@@ -70818,8 +70412,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1978715165
 Rigidbody2D:
   serializedVersion: 4
@@ -70944,8 +70537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1980111213
 Rigidbody2D:
   serializedVersion: 4
@@ -71070,8 +70662,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1980932795
 Rigidbody2D:
   serializedVersion: 4
@@ -71196,8 +70787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1989693790
 Rigidbody2D:
   serializedVersion: 4
@@ -71322,8 +70912,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1989875852
 Rigidbody2D:
   serializedVersion: 4
@@ -71448,8 +71037,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1994028153
 Rigidbody2D:
   serializedVersion: 4
@@ -71574,8 +71162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &1995881682
 Rigidbody2D:
   serializedVersion: 4
@@ -71700,8 +71287,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2009186531
 Rigidbody2D:
   serializedVersion: 4
@@ -71826,8 +71412,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2009722761
 Rigidbody2D:
   serializedVersion: 4
@@ -71952,8 +71537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2012341309
 Rigidbody2D:
   serializedVersion: 4
@@ -72078,8 +71662,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2012425120
 Rigidbody2D:
   serializedVersion: 4
@@ -72204,8 +71787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2013172387
 Rigidbody2D:
   serializedVersion: 4
@@ -72330,8 +71912,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2016447031
 Rigidbody2D:
   serializedVersion: 4
@@ -72456,8 +72037,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2018082017
 Rigidbody2D:
   serializedVersion: 4
@@ -72582,8 +72162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2023632411
 Rigidbody2D:
   serializedVersion: 4
@@ -72708,8 +72287,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2024417002
 Rigidbody2D:
   serializedVersion: 4
@@ -72834,8 +72412,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2025362341
 Rigidbody2D:
   serializedVersion: 4
@@ -72960,8 +72537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2026197405
 Rigidbody2D:
   serializedVersion: 4
@@ -73086,8 +72662,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2030375789
 Rigidbody2D:
   serializedVersion: 4
@@ -73212,8 +72787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2032499887
 Rigidbody2D:
   serializedVersion: 4
@@ -73338,8 +72912,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2032870984
 Rigidbody2D:
   serializedVersion: 4
@@ -73464,8 +73037,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2041226125
 Rigidbody2D:
   serializedVersion: 4
@@ -73590,8 +73162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2041988855
 Rigidbody2D:
   serializedVersion: 4
@@ -73716,8 +73287,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2045284169
 Rigidbody2D:
   serializedVersion: 4
@@ -73842,8 +73412,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2048292165
 Rigidbody2D:
   serializedVersion: 4
@@ -73968,8 +73537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2050414735
 Rigidbody2D:
   serializedVersion: 4
@@ -74094,8 +73662,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2058574903
 Rigidbody2D:
   serializedVersion: 4
@@ -74220,8 +73787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2062083647
 Rigidbody2D:
   serializedVersion: 4
@@ -74346,8 +73912,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2064321497
 Rigidbody2D:
   serializedVersion: 4
@@ -74472,8 +74037,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2084794183
 Rigidbody2D:
   serializedVersion: 4
@@ -74598,8 +74162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2118648187
 Rigidbody2D:
   serializedVersion: 4
@@ -74724,8 +74287,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2120288767
 Rigidbody2D:
   serializedVersion: 4
@@ -74850,8 +74412,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2121669702
 Rigidbody2D:
   serializedVersion: 4
@@ -74976,8 +74537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2123441531
 Rigidbody2D:
   serializedVersion: 4
@@ -75102,8 +74662,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2123563266
 Rigidbody2D:
   serializedVersion: 4
@@ -75228,8 +74787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2129983148
 Rigidbody2D:
   serializedVersion: 4
@@ -75354,8 +74912,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2135757317
 Rigidbody2D:
   serializedVersion: 4
@@ -75480,8 +75037,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2138565287
 Rigidbody2D:
   serializedVersion: 4
@@ -75606,8 +75162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2141952543
 Rigidbody2D:
   serializedVersion: 4
@@ -75732,8 +75287,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9826c3d39cad8cb41b07395d51f4148b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  whichcollider: 0
+  collisioncount: 0
 --- !u!50 &2145442409
 Rigidbody2D:
   serializedVersion: 4
